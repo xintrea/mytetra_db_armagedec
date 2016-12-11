@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE mytetradoc>
+<root>
+ <format version="1" subversion="2"/>
+ <content>
+  <node crypt="" id="14813066435d0miklsgh" name="root">
+   <node crypt="" id="1481311611bq6rtpreh7" name="Гитара">
+    <recordtable>
+     <record id="14813117504p7j63fh29" name="Генератор тона Linux" author="" url="" tags="guitar, linux, tone, tuner" ctime="20161209212910" dir="1481311750myptpiixdf" file="text.html"/>
+     <record id="148138893812ja5zhhqn" name="MIDI сервер" author="" url="" tags="midi, guitar pro, timidity" ctime="20161210185538" dir="1481388938m8z1ltf8rz" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1481386952j9tqrpfnx9" name="Git">
+    <recordtable>
+     <record id="1481387047n8fxdemi4t" name="Удаление remote branch" author="" url="" tags="remote, branch, remove" ctime="20161210182407" dir="1481387047ud7n3ety1q" file="text.html"/>
+     <record id="1481459708iz42yamapy" name="Шпаргалка по командам" author="" url="" tags="git, commands, repo" ctime="20161211143508" dir="14814597081vhsmhi9n8" file="text.html"/>
+     <record id="1481463336o4ubh0ztgx" name="Формат pretty" author="" url="" tags="pretty, git" ctime="20161211153536" dir="1481463336ns4cwlt0cw" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1481461637dv6an985ib" name="Vi">
+    <recordtable>
+     <record id="1481461810e1opwnuk7u" name="Шпаргалка" author="" url="" tags="vi" ctime="20161211151010" dir="1481461810f4iluma27s" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+ </content>
+</root>
