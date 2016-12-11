@@ -15,6 +15,9 @@
      <record id="1481387047n8fxdemi4t" name="Удаление remote branch" author="" url="" tags="remote, branch, remove" ctime="20161210182407" dir="1481387047ud7n3ety1q" file="text.html"/>
      <record id="1481459708iz42yamapy" name="Шпаргалка по командам" author="" url="" tags="git, commands, repo" ctime="20161211143508" dir="14814597081vhsmhi9n8" file="text.html"/>
      <record id="1481463336o4ubh0ztgx" name="Формат pretty" author="" url="" tags="pretty, git" ctime="20161211153536" dir="1481463336ns4cwlt0cw" file="text.html"/>
+     <record id="14814859642t2pvo4k1p" name="Как смержить изменения с experimental в master" author="" url="" tags="merge" ctime="20161211215244" dir="148148596492dzxpb96l" file="text.html"/>
+     <record id="14814862525cx65k1kzp" name="Как переключится на нужный коммит" author="" url="" tags="commit, checkout" ctime="20161211215732" dir="14814862525ujjk39pw8" file="text.html"/>
+     <record id="1481486536iy6rmv4utn" name="Понимание работы merge" author="" url="" tags="merge" ctime="20161211220216" dir="1481486536haxtaaxjsh" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481461637dv6an985ib" name="Vi">
