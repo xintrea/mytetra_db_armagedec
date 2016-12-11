@@ -22,6 +22,12 @@
      <record id="1481461810e1opwnuk7u" name="Шпаргалка" author="" url="" tags="vi" ctime="20161211151010" dir="1481461810f4iluma27s" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1481478938beeo3hmbb2" name="Книги"/>
+   <node crypt="" id="1481479185z1i635glvy" name="Cсылки">
+    <recordtable>
+     <record id="1481479274jllfs3jn83" name="1001 книга которую должен прочитать каждый" author="" url="" tags="book, must read" ctime="20161211200114" dir="1481479274i220o5mlqh" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
