@@ -4,6 +4,9 @@
  <format version="1" subversion="2"/>
  <content>
   <node crypt="" id="14813066435d0miklsgh" name="root">
+   <recordtable>
+    <record id="148146506978214e5gax" name="test" author="" url="" tags="" ctime="20161211160429" dir="1481465069a2wkjubpa4" file="text.html"/>
+   </recordtable>
    <node crypt="" id="1481311611bq6rtpreh7" name="Гитара">
     <recordtable>
      <record id="14813117504p7j63fh29" name="Генератор тона Linux" author="" url="" tags="guitar, linux, tone, tuner" ctime="20161209212910" dir="1481311750myptpiixdf" file="text.html"/>
