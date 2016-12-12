@@ -26,6 +26,8 @@
      <record id="1481488341j9rpqu5ksu" name="Как подключить новую ветку с сервера" author="" url="" tags="pull, branch" ctime="20161211223221" dir="1481488341ddgzciisnb" file="text.html"/>
      <record id="14814885646qjkflw2ng" name="Как исправить HEAD detached from" author="" url="" tags="HEAD, push" ctime="20161211223604" dir="1481488564l16s6w3bgv" file="text.html"/>
      <record id="1481488992dze63bsh1o" name="Как испарвить ошибочный комментарий к коммиту" author="" url="" tags="commit, comment" ctime="20161211224312" dir="1481488992o1bnlq9hsc" file="text.html"/>
+     <record id="1481565556jqhxw6sqcs" name="Как создать новую ветку в условиях, когда произошли изменения после последнего коммита" author="" url="" tags="branch, commit" ctime="20161212195916" dir="148156555667y7hpdw8w" file="text.html"/>
+     <record id="1481565835if3tv626p7" name="Как залить локальную ветку на удаленный репозиторий" author="" url="" tags="origin, branch" ctime="20161212200355" dir="1481565835n59426racj" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481461637dv6an985ib" name="Vi">
