@@ -37,6 +37,7 @@
      <record id="14815688722i5u1kql4s" name="Работа с ветками" author="" url="" tags="branch" ctime="20161212205432" dir="1481568872axr6nyrxjw" file="text.html"/>
      <record id="1481570494rhf5fqdyje" name="Команда rebase" author="" url="" tags="rebase" ctime="20161212212134" dir="1481570494yijyyilnri" file="text.html"/>
      <record id="1481570708dbcedb1zqi" name="Особенности log при навигации по истории с помощью checkout" author="" url="" tags="log, history, checkout" ctime="20161212212508" dir="1481570708wkwr5rxj5h" file="text.html"/>
+     <record id="14815714132jt40qgwqa" name="Разница между pull и fetch" author="" url="" tags="pull, fetch" ctime="20161212213653" dir="1481571413xvrh9a4ia7" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481461637dv6an985ib" name="Vi">
