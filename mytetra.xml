@@ -7,7 +7,7 @@
    <node crypt="" id="1481311611bq6rtpreh7" name="Гитара">
     <recordtable>
      <record id="14813117504p7j63fh29" name="Генератор тона Linux" author="" url="" tags="guitar, linux, tone, tuner" ctime="20161209212910" dir="1481311750myptpiixdf" file="text.html"/>
-     <record id="148138893812ja5zhhqn" name="MIDI сервер" author="" url="" tags="midi, guitar pro, timidity" ctime="20161210185538" dir="1481388938m8z1ltf8rz" file="text.html"/>
+     <record id="148138893812ja5zhhqn" name="MIDI сервер" author="" url="" tags="midi, guitar pro, timidity, tuxguitar" ctime="20161210185538" dir="1481388938m8z1ltf8rz" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481386952j9tqrpfnx9" name="Git">
@@ -28,6 +28,13 @@
      <record id="1481488992dze63bsh1o" name="Как испарвить ошибочный комментарий к коммиту" author="" url="" tags="commit, comment" ctime="20161211224312" dir="1481488992o1bnlq9hsc" file="text.html"/>
      <record id="1481565556jqhxw6sqcs" name="Как создать новую ветку в условиях, когда произошли изменения после последнего коммита" author="" url="" tags="branch, commit" ctime="20161212195916" dir="148156555667y7hpdw8w" file="text.html"/>
      <record id="1481565835if3tv626p7" name="Как залить локальную ветку на удаленный репозиторий" author="" url="" tags="origin, branch" ctime="20161212200355" dir="1481565835n59426racj" file="text.html"/>
+     <record id="1481566381wwh8nih2x0" name="Ежедневный git" author="" url="" tags="git" ctime="20161212201301" dir="1481566381m8dcaw9z3b" file="text.html"/>
+     <record id="1481567079exftci0oeg" name="Команда stash" author="" url="" tags="stash" ctime="20161212202439" dir="1481567079bta91eryw5" file="text.html"/>
+     <record id="1481567300p9io31ezvo" name="Как посмотреть настройки репозитория" author="" url="" tags="config" ctime="20161212202820" dir="148156730070mmty49mi" file="text.html"/>
+     <record id="1481567592clu2ewnaa9" name="Как перенести локальный репозиторий на сервер" author="" url="" tags="repo, origin" ctime="20161212203312" dir="1481567592x5vf9ygodr" file="text.html"/>
+     <record id="1481567976xp4ga1ulh8" name="Команда reset, откат" author="" url="" tags="reset" ctime="20161212203936" dir="1481567976vidpk7l7hb" file="text.html"/>
+     <record id="14815680899uo9ungg17" name="Команда revert" author="" url="" tags="revert" ctime="20161212204129" dir="1481568089oua8qkpllm" file="text.html"/>
+     <record id="14815688722i5u1kql4s" name="Работа с ветками" author="" url="" tags="branch" ctime="20161212205432" dir="1481568872axr6nyrxjw" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481461637dv6an985ib" name="Vi">
