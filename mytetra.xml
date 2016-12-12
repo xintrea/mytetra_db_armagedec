@@ -10,7 +10,7 @@
      <record id="148138893812ja5zhhqn" name="MIDI сервер" author="" url="" tags="midi, guitar pro, timidity, tuxguitar" ctime="20161210185538" dir="1481388938m8z1ltf8rz" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1481386952j9tqrpfnx9" name="Git">
+   <node crypt="" id="1481386952j9tqrpfnx9" name="git">
     <recordtable>
      <record id="1481387047n8fxdemi4t" name="Удаление remote branch" author="" url="" tags="remote, branch, remove" ctime="20161210182407" dir="1481387047ud7n3ety1q" file="text.html"/>
      <record id="1481459708iz42yamapy" name="Шпаргалка по командам" author="" url="" tags="git, commands, repo" ctime="20161211143508" dir="14814597081vhsmhi9n8" file="text.html"/>
@@ -38,9 +38,11 @@
      <record id="1481570494rhf5fqdyje" name="Команда rebase" author="" url="" tags="rebase" ctime="20161212212134" dir="1481570494yijyyilnri" file="text.html"/>
      <record id="1481570708dbcedb1zqi" name="Особенности log при навигации по истории с помощью checkout" author="" url="" tags="log, history, checkout" ctime="20161212212508" dir="1481570708wkwr5rxj5h" file="text.html"/>
      <record id="14815714132jt40qgwqa" name="Разница между pull и fetch" author="" url="" tags="pull, fetch" ctime="20161212213653" dir="1481571413xvrh9a4ia7" file="text.html"/>
+     <record id="1481573982t5ner5admw" name="Удачная модель ветвления" author="" url="" tags="branch" ctime="20161212221942" dir="1481573982bw1nomrvmk" file="text.html"/>
+     <record id="1481574652ma15kaacrj" name="Использование proxy" author="" url="" tags="proxy" ctime="20161212223052" dir="1481574652z5d2zl7py9" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1481461637dv6an985ib" name="Vi">
+   <node crypt="" id="1481461637dv6an985ib" name="vi">
     <recordtable>
      <record id="1481461810e1opwnuk7u" name="Шпаргалка" author="" url="" tags="vi" ctime="20161211151010" dir="1481461810f4iluma27s" file="text.html"/>
     </recordtable>
@@ -49,6 +51,11 @@
    <node crypt="" id="1481479185z1i635glvy" name="Cсылки">
     <recordtable>
      <record id="1481479274jllfs3jn83" name="1001 книга которую должен прочитать каждый" author="" url="" tags="book, must read" ctime="20161211200114" dir="1481479274i220o5mlqh" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1481575037sfgtu9n4w5" name="gdb">
+    <recordtable>
+     <record id="1481576434a30od8dvj5" name="Шпаргалка gdb" author="" url="" tags="gdb" ctime="20161212230034" dir="148157643445m24hebql" file="text.html"/>
     </recordtable>
    </node>
   </node>
