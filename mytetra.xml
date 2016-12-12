@@ -35,6 +35,8 @@
      <record id="1481567976xp4ga1ulh8" name="Команда reset, откат" author="" url="" tags="reset" ctime="20161212203936" dir="1481567976vidpk7l7hb" file="text.html"/>
      <record id="14815680899uo9ungg17" name="Команда revert" author="" url="" tags="revert" ctime="20161212204129" dir="1481568089oua8qkpllm" file="text.html"/>
      <record id="14815688722i5u1kql4s" name="Работа с ветками" author="" url="" tags="branch" ctime="20161212205432" dir="1481568872axr6nyrxjw" file="text.html"/>
+     <record id="1481570494rhf5fqdyje" name="Команда rebase" author="" url="" tags="rebase" ctime="20161212212134" dir="1481570494yijyyilnri" file="text.html"/>
+     <record id="1481570708dbcedb1zqi" name="Особенности log при навигации по истории с помощью checkout" author="" url="" tags="log, history, checkout" ctime="20161212212508" dir="1481570708wkwr5rxj5h" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481461637dv6an985ib" name="Vi">
