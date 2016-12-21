@@ -58,6 +58,11 @@
      <record id="1481576434a30od8dvj5" name="Шпаргалка gdb" author="" url="" tags="gdb" ctime="20161212230034" dir="148157643445m24hebql" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="14823352457nvgonvpwv" name="Linux">
+    <recordtable>
+     <record id="14823353101xckrn8156" name="Как удалить репозиторий" author="" url="" tags="repo, apt" ctime="20161221174830" dir="14823353105b5kpfktlp" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
  </content>
 </root>
