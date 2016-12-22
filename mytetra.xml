@@ -62,6 +62,7 @@
     <recordtable>
      <record id="14823353101xckrn8156" name="Как удалить репозиторий" author="" url="" tags="repo, apt" ctime="20161221174830" dir="14823353105b5kpfktlp" file="text.html"/>
      <record id="14823357850iwu0osn7a" name="Ручная установка пакета" author="" url="" tags="dpkg, deb, apt" ctime="20161221175625" dir="1482335785940aorlalj" file="text.html"/>
+     <record id="14824342125akt9potv5" name="Автоматическое исправление опечаток" author="" url="" tags="cd" ctime="20161222211652" dir="1482434212oxi9hapeid" file="text.html"/>
     </recordtable>
    </node>
   </node>
