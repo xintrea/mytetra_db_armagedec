@@ -64,6 +64,8 @@
      <record id="14823357850iwu0osn7a" name="Ручная установка пакета" author="" url="" tags="dpkg, deb, apt" ctime="20161221175625" dir="1482335785940aorlalj" file="text.html"/>
      <record id="14824342125akt9potv5" name="Автоматическое исправление опечаток" author="" url="" tags="cd" ctime="20161222211652" dir="1482434212oxi9hapeid" file="text.html"/>
      <record id="1482434941sepc4kl02t" name="Разница между .bashrc и .bash_profile" author="" url="" tags="bash" ctime="20161222212901" dir="1482434941gsnydw354a" file="text.html"/>
+     <record id="1482516712ritgnhtf21" name="Команда find" author="" url="" tags="find" ctime="20161223201152" dir="1482516712vly190ers0" file="text.html"/>
+     <record id="1482518645ij5qm4dqzb" name="Команда xargs" author="" url="" tags="xargs" ctime="20161223204405" dir="14825186456bcfrgx1bz" file="text.html"/>
     </recordtable>
    </node>
   </node>
