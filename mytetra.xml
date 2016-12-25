@@ -67,7 +67,11 @@
      <record id="1482516712ritgnhtf21" name="Команда find" author="" url="" tags="find" ctime="20161223201152" dir="1482516712vly190ers0" file="text.html"/>
      <record id="1482518645ij5qm4dqzb" name="Команда xargs" author="" url="" tags="xargs" ctime="20161223204405" dir="14825186456bcfrgx1bz" file="text.html"/>
     </recordtable>
-    <node crypt="" id="1482664734nvb6lsurxp" name="C++"/>
+   </node>
+   <node crypt="" id="1482664754q7xkh5ca6k" name="C++">
+    <recordtable>
+     <record id="1482669130xwwsb1ofz9" name="pragma pack" author="" url="" tags="pragma, pack, alignment" ctime="20161225143210" dir="1482669130pkzmlg7d6d" file="text.html"/>
+    </recordtable>
    </node>
   </node>
  </content>
