@@ -79,9 +79,16 @@
    <node crypt="" id="1490707858ge6dqk3lb5" name="Windows">
     <recordtable>
      <record id="1490708028la81zbh3p8" name="Как убить процесс" author="" url="" tags="kill" ctime="20170328163348" dir="1490708028w5nojv0gzf" file="text.html"/>
-     <record id="1490939704soo7ad1ivq" name="Навигация по коду в дебагере Visual Studio" author="" url="" tags="debug, skip, visual studio" ctime="20170331085504" dir="1490939704qlg4mbc1jk" file="text.html"/>
-     <record id="1491510672slqef50ck0" name="Вызов функций во время дебага в VisualStudio" author="" url="" tags="visual studio, debug, call" ctime="20170406233112" dir="1491510672lcaadr6xyj" file="text.html"/>
     </recordtable>
+    <node crypt="" id="1493706716m8f6aorma9" name="Visual Studio">
+     <recordtable>
+      <record id="1490939704soo7ad1ivq" name="Навигация по коду в дебагере Visual Studio" author="" url="" tags="debug, skip, visual studio" ctime="20170502093211" dir="1490939704qlg4mbc1jk" file="text.html"/>
+      <record id="1491510672slqef50ck0" name="Вызов функций во время дебага в VisualStudio" author="" url="" tags="visual studio, debug, call" ctime="20170502093220" dir="1491510672lcaadr6xyj" file="text.html"/>
+      <record id="1493707869flbru3xioq" name="Debug shortcuts" author="" url="" tags="shortcuts, visual studio" ctime="20170502095109" dir="1493707869g32nkre8e5" file="text.html"/>
+      <record id="1493707901zzfeigtq0o" name="Navigation shortcuts" author="" url="" tags="navigation, shortcuts, visual studio" ctime="20170502095141" dir="1493707901chf2478ful" file="text.html"/>
+      <record id="1493709228rwmmkno7bg" name="Editing shortcuts" author="" url="" tags="edit, shortcuts, visual studio" ctime="20170502101348" dir="1493709228pg768z7n1n" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
