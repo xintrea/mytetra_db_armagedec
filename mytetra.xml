@@ -41,6 +41,7 @@
      <record id="1481573982t5ner5admw" name="Удачная модель ветвления" author="" url="" tags="branch" ctime="20161212221942" dir="1481573982bw1nomrvmk" file="text.html"/>
      <record id="1481574652ma15kaacrj" name="Использование proxy" author="" url="" tags="proxy" ctime="20161212223052" dir="1481574652z5d2zl7py9" file="text.html"/>
      <record id="149033350471i4su1hcc" name="Использование различных SSH ключей" author="" url="" tags="ssh, git" ctime="20170324073144" dir="1490333504s2qnv0iidq" file="text.html"/>
+     <record id="1494506053bs1nqef4s7" name="Очистка индекса" author="" url="" tags="index, reset, commit, git" ctime="20170511153413" dir="149450605303eb1wbaar" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481461637dv6an985ib" name="vi">
@@ -81,6 +82,7 @@
    <node crypt="" id="1490707858ge6dqk3lb5" name="Windows">
     <recordtable>
      <record id="1490708028la81zbh3p8" name="Как убить процесс" author="" url="" tags="kill" ctime="20170328163348" dir="1490708028w5nojv0gzf" file="text.html"/>
+     <record id="1500787653opbxrhgoi2" name="Проверка состояния батареи" author="" url="" tags="battery, energy" ctime="20170723082733" dir="1500787653c6h82r0sxk" file="text.html"/>
     </recordtable>
     <node crypt="" id="1493706716m8f6aorma9" name="Visual Studio">
      <recordtable>
@@ -89,8 +91,11 @@
       <record id="1493707869flbru3xioq" name="Debug shortcuts" author="" url="" tags="shortcuts, visual studio" ctime="20170502095109" dir="1493707869g32nkre8e5" file="text.html"/>
       <record id="1493707901zzfeigtq0o" name="Navigation shortcuts" author="" url="" tags="navigation, shortcuts, visual studio" ctime="20170502095141" dir="1493707901chf2478ful" file="text.html"/>
       <record id="1493709228rwmmkno7bg" name="Editing shortcuts" author="" url="" tags="edit, shortcuts, visual studio" ctime="20170502101348" dir="1493709228pg768z7n1n" file="text.html"/>
+      <record id="1494610830r5st3r3cm2" name="Misk shortcuts" author="" url="" tags="shortcuts, visual studio" ctime="20170512204030" dir="1494610830sbmvg8dhgb" file="text.html"/>
+      <record id="1500628404a3yqkptnmk" name="Bookmarks" author="" url="" tags="visual studio, bookmark" ctime="20170721121324" dir="1500628404hpnl94gi79" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="14946146322r2yfkxt6b" name="Bat-скрипты"/>
    </node>
   </node>
  </content>
