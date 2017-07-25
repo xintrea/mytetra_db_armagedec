@@ -96,6 +96,11 @@
      </recordtable>
     </node>
     <node crypt="" id="14946146322r2yfkxt6b" name="Bat-скрипты"/>
+    <node crypt="" id="1500967934oyi6a3rwkf" name="Programs">
+     <recordtable>
+      <record id="15009681265f8os5pvtk" name="AutoHotkey" author="" url="" tags="hotkey, shortcut, auto" ctime="20170725103526" dir="1500968126f4b66vy9to" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
  </content>
