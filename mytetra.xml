@@ -99,8 +99,14 @@
     <node crypt="" id="1500967934oyi6a3rwkf" name="Programs">
      <recordtable>
       <record id="15009681265f8os5pvtk" name="AutoHotkey" author="" url="" tags="hotkey, shortcut, auto" ctime="20170725103526" dir="1500968126f4b66vy9to" file="text.html"/>
+      <record id="150174746479u1tbpyap" name="Resource Hacker" author="" url="" tags="ico, image, icon, exe" ctime="20170803110424" dir="1501747464tqrkx6qt6y" file="text.html"/>
      </recordtable>
     </node>
+   </node>
+   <node crypt="" id="15017468404e75mgh31s" name="Trueconf">
+    <recordtable>
+     <record id="1501746878ccv6ifmf2b" name="Обработка facility правильным парсером" author="" url="" tags="facility, h460" ctime="20170803105438" dir="1501746878uwvwkvcu9n" file="text.html"/>
+    </recordtable>
    </node>
   </node>
  </content>
