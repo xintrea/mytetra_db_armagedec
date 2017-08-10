@@ -106,6 +106,14 @@
    <node crypt="" id="15017468404e75mgh31s" name="Trueconf">
     <recordtable>
      <record id="1501746878ccv6ifmf2b" name="Обработка facility правильным парсером" author="" url="" tags="facility, h460" ctime="20170803105438" dir="1501746878uwvwkvcu9n" file="text.html"/>
+     <record id="1502349367sklxr7kkxj" name="H460 bugs" author="" url="" tags="" ctime="20170810121607" dir="1502349367mt0hxuv6tj" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="15023026130tmwdxiirl" name="Планы">
+    <recordtable>
+     <record id="150230269819yr706ot9" name="FarManager" author="" url="" tags="far" ctime="20170809231818" dir="15023026987tdduv2bvc" file="text.html"/>
+     <record id="15023027539ofk52neqd" name="TotalCommander" author="" url="" tags="total commander" ctime="20170809231913" dir="1502302753w6i317ltez" file="text.html"/>
+     <record id="15023028517s2tow34ze" name="AutoHotKey" author="" url="" tags="autohotkey, hotkey" ctime="20170809232051" dir="15023028513cfeiguopc" file="text.html"/>
     </recordtable>
    </node>
   </node>
