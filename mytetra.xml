@@ -83,6 +83,7 @@
     <recordtable>
      <record id="1490708028la81zbh3p8" name="Как убить процесс" author="" url="" tags="kill" ctime="20170328163348" dir="1490708028w5nojv0gzf" file="text.html"/>
      <record id="1500787653opbxrhgoi2" name="Проверка состояния батареи" author="" url="" tags="battery, energy" ctime="20170723082733" dir="1500787653c6h82r0sxk" file="text.html"/>
+     <record id="1502698222qqj08kyh59" name="Управление гибернацией" author="" url="" tags="hibernation" ctime="20170814111022" dir="1502698222gs9tdompp5" file="text.html"/>
     </recordtable>
     <node crypt="" id="1493706716m8f6aorma9" name="Visual Studio">
      <recordtable>
@@ -109,12 +110,37 @@
      <record id="1502349367sklxr7kkxj" name="H460 bugs" author="" url="" tags="" ctime="20170810121607" dir="1502349367mt0hxuv6tj" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="15023026130tmwdxiirl" name="Планы">
+   <node crypt="" id="15023026130tmwdxiirl" name="Software">
     <recordtable>
      <record id="150230269819yr706ot9" name="FarManager" author="" url="" tags="far" ctime="20170809231818" dir="15023026987tdduv2bvc" file="text.html"/>
      <record id="15023027539ofk52neqd" name="TotalCommander" author="" url="" tags="total commander" ctime="20170809231913" dir="1502302753w6i317ltez" file="text.html"/>
      <record id="15023028517s2tow34ze" name="AutoHotKey" author="" url="" tags="autohotkey, hotkey" ctime="20170809232051" dir="15023028513cfeiguopc" file="text.html"/>
      <record id="1502370390g9rdt4897b" name="Visual Assistant" author="" url="" tags="" ctime="20170810180630" dir="15023703901k8myecap5" file="text.html"/>
+    </recordtable>
+   </node>
+  </node>
+  <node crypt="1" icon="" id="15045354367tidoxyine" name="UkM1U0lNUAMVc9ZiEbyH91AmLLr+BEEDvV9p6yU5ymD4pXqWwaqkCSyKAzDBSHgMLR3OmVTUomm4Urtfx5/agnrXd88Lsq8H">
+   <node crypt="1" icon="" id="15045354488v13w3pvyj" name="UkM1U0lNUAMT4Xhgk2Ql+Lh3ZB2NoATGOSwnWQzdt6rh6Z9oAqE78Wxy/0+Pv4Qh">
+    <recordtable>
+     <record id="1504535515hz56y6lhu9" name="UkM1U0lNUANk6EbdtT+e/QhpqxcHczkqaBDqElKyDNOvO4HtZdYv8oCTJd4TGLtsF1stWfQuVMA=" author="" url="" tags="" ctime="20170904173155" dir="1504535515gngo56ujs8" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1504535873n01fnjea1j" name="UkM1U0lNUAO01r0XCKQ0RL6o33bEQeeIycIeERe0jon/9NXLEV8KQmittq8ut0I8">
+    <recordtable>
+     <record id="1504535929w2xkd2i5sd" name="UkM1U0lNUAOS1Th0w0E828VBQBY7LzGiR0IVPVDBeOWL2KLOD2Ip1rnxAk0SlleWAsmVPI/aaPg=" author="" url="" tags="" ctime="20170904173849" dir="1504535929sgp5pmha90" file="text.html" crypt="1"/>
+     <record id="1504535964j7tioubii6" name="UkM1U0lNUANgntn0KSu0G1ZR9KqTKXPjZjNKAA1UoxpufxI0wDnfVhNsHgsIHuwQwPPCFpeOq8U=" author="" url="" tags="" ctime="20170904173924" dir="1504535964crclmma1q9" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1504536047gq63i6ebmo" name="UkM1U0lNUAP6BVwg6QFN4B6KbqBNXhQ7tiSclu9gehMWGhn1N2x6IpFdumf9SDFw">
+    <recordtable>
+     <record id="1504536097qeiv7yf84n" name="UkM1U0lNUAPZmy9U89/zoSTDr3rWTbHlNMYjkHXZYuxz6UmIqji/GLEZxJvHYguOhsZb0u325jg=" author="" url="" tags="" ctime="20170904174137" dir="1504536097g84jb7segi" file="text.html" crypt="1"/>
+     <record id="1504536130pf8s1ifu6u" name="UkM1U0lNUAP49aSPFSLOQgu5HIOWsxG8hyEI1crBeJhkgJc31n+vW2o4nEI0vqJn" author="" url="" tags="" ctime="20170904174210" dir="1504536130j8ofrdg9gs" file="text.html" crypt="1"/>
+     <record id="1504536174cicctnks10" name="UkM1U0lNUAP2gP7gFwndEwBpWSCkpxzXM00msETDY/0cGmYy2H0UnaUjm9ExL0EYMRHDczcSjHs=" author="" url="" tags="" ctime="20170904174254" dir="1504536174762qqhc2x3" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1504536200d1vv9590c4" name="UkM1U0lNUAPLdB+XdvZSFhP5qfj6pKMrCUJKVBXE/DI9Xxzzdrqhj3o4eOx6bprNSwLwtPk5f3Y=">
+    <recordtable>
+     <record id="150453623431oou2rzyq" name="UkM1U0lNUAP3gYEXQfR4g0yCTnSZsUIPletXrFGScSuOCzw+eu/5uqcTQOWF9upd" author="" url="" tags="" ctime="20170904174354" dir="15045362349ejc8xkph1" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
