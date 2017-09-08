@@ -103,6 +103,11 @@
       <record id="150174746479u1tbpyap" name="Resource Hacker" author="" url="" tags="ico, image, icon, exe" ctime="20170803110424" dir="1501747464tqrkx6qt6y" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1504888667301qfqvxpg" name="VMWare">
+     <recordtable>
+      <record id="15048919807n92ptj0ei" name="Как подключить к виртуальной машине несколько мониторов " author="" url="" tags="vm, vmware, monitor" ctime="20170908203300" dir="1504891980bm83go2qk6" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15017468404e75mgh31s" name="Trueconf">
     <recordtable>
@@ -136,6 +141,7 @@
      <record id="1504536097qeiv7yf84n" name="UkM1U0lNUAPZmy9U89/zoSTDr3rWTbHlNMYjkHXZYuxz6UmIqji/GLEZxJvHYguOhsZb0u325jg=" author="" url="" tags="" ctime="20170904174137" dir="1504536097g84jb7segi" file="text.html" crypt="1"/>
      <record id="1504536130pf8s1ifu6u" name="UkM1U0lNUAP49aSPFSLOQgu5HIOWsxG8hyEI1crBeJhkgJc31n+vW2o4nEI0vqJn" author="" url="" tags="" ctime="20170904174210" dir="1504536130j8ofrdg9gs" file="text.html" crypt="1"/>
      <record id="1504536174cicctnks10" name="UkM1U0lNUAP2gP7gFwndEwBpWSCkpxzXM00msETDY/0cGmYy2H0UnaUjm9ExL0EYMRHDczcSjHs=" author="" url="" tags="" ctime="20170904174254" dir="1504536174762qqhc2x3" file="text.html" crypt="1"/>
+     <record id="1504598798bvtb8xk9tf" name="UkM1U0lNUAOcDMmZgm+cZcldfTQ5AujR3K+UbBxBOfw9jBJ+ZjssbofwDeXHbZcCYHlX0ULLHD8=" author="" url="" tags="" ctime="20170905110638" dir="1504598798dmbefdf7vq" file="text.html" crypt="1"/>
     </recordtable>
    </node>
    <node crypt="1" icon="" id="1504536200d1vv9590c4" name="UkM1U0lNUAPLdB+XdvZSFhP5qfj6pKMrCUJKVBXE/DI9Xxzzdrqhj3o4eOx6bprNSwLwtPk5f3Y=">
