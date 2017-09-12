@@ -73,6 +73,7 @@
      <record id="15051412129kpykkbwx8" name="Enable normal interface names" author="" url="" tags="interface, ifconfig, ip" ctime="20170911174652" dir="1505141212r9sdzkj3sb" file="text.html"/>
      <record id="1505141308ypc0lis3m9" name="Useful commands" author="" url="" tags="commands, linus, bash" ctime="20170911174828" dir="1505141308010vqyxqe6" file="text.html"/>
      <record id="1505142040wnaxzrdkwp" name="IP configuration" author="" url="" tags="ip, ifconfig" ctime="20170911180040" dir="1505142040sa2zoqvzkg" file="text.html"/>
+     <record id="15052409789d7nkjgq1o" name="Change default booting OS" author="" url="" tags="boot, grub" ctime="20170912212938" dir="15052409789oazgr3ft3" file="text.html"/>
     </recordtable>
     <node crypt="" id="1505141095zucmbftcas" name="Commands">
      <recordtable>
