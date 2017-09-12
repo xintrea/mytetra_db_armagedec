@@ -53,6 +53,7 @@
    <node crypt="" id="1481479185z1i635glvy" name="Cсылки">
     <recordtable>
      <record id="1481479274jllfs3jn83" name="1001 книга которую должен прочитать каждый" author="" url="" tags="book, must read" ctime="20161211200114" dir="1481479274i220o5mlqh" file="text.html"/>
+     <record id="1504977204nm4jwmccat" name="Перевод выражений на английский" author="" url="" tags="reverso, translate" ctime="20170909201324" dir="1504977204gky8x6jj5c" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481575037sfgtu9n4w5" name="gdb">
@@ -66,12 +67,19 @@
      <record id="14823357850iwu0osn7a" name="Ручная установка пакета" author="" url="" tags="dpkg, deb, apt" ctime="20161221175625" dir="1482335785940aorlalj" file="text.html"/>
      <record id="14824342125akt9potv5" name="Автоматическое исправление опечаток" author="" url="" tags="cd" ctime="20161222211652" dir="1482434212oxi9hapeid" file="text.html"/>
      <record id="1482434941sepc4kl02t" name="Разница между .bashrc и .bash_profile" author="" url="" tags="bash" ctime="20161222212901" dir="1482434941gsnydw354a" file="text.html"/>
-     <record id="1482516712ritgnhtf21" name="Команда find" author="" url="" tags="find" ctime="20161223201152" dir="1482516712vly190ers0" file="text.html"/>
-     <record id="1482518645ij5qm4dqzb" name="Команда xargs" author="" url="" tags="xargs" ctime="20161223204405" dir="14825186456bcfrgx1bz" file="text.html"/>
      <record id="1493236238bf425mxmo5" name="Типичное использование Cmake" author="" url="" tags="cmake" ctime="20170426225038" dir="1493236238ntu4q6m86p" file="text.html"/>
      <record id="1494418733xkr8z2v00j" name="Как сбросить пароль root" author="" url="" tags="passwd, root, boot, loader" ctime="20170510151853" dir="149441873389ffz2sair" file="text.html"/>
-     <record id="1494499503uug2lq2u17" name="Информация о портах (команда netstat)" author="" url="" tags="netstat, ports, udp, tcp, network" ctime="20170511134503" dir="1494499503vs15cwzsym" file="text.html"/>
+     <record id="15051412129kpykkbwx8" name="Enable normal interface names" author="" url="" tags="interface, ifconfig, ip" ctime="20170911174652" dir="1505141212r9sdzkj3sb" file="text.html"/>
+     <record id="1505141308ypc0lis3m9" name="Useful commands" author="" url="" tags="commands, linus, bash" ctime="20170911174828" dir="1505141308010vqyxqe6" file="text.html"/>
+     <record id="1505142040wnaxzrdkwp" name="IP configuration" author="" url="" tags="ip, ifconfig" ctime="20170911180040" dir="1505142040sa2zoqvzkg" file="text.html"/>
     </recordtable>
+    <node crypt="" id="1505141095zucmbftcas" name="Commands">
+     <recordtable>
+      <record id="1482516712ritgnhtf21" name="Команда find" author="" url="" tags="find" ctime="20170911174502" dir="1482516712vly190ers0" file="text.html"/>
+      <record id="1482518645ij5qm4dqzb" name="Команда xargs" author="" url="" tags="xargs" ctime="20170911174504" dir="14825186456bcfrgx1bz" file="text.html"/>
+      <record id="1494499503uug2lq2u17" name="Информация о портах (команда netstat)" author="" url="" tags="netstat, ports, udp, tcp, network" ctime="20170911174508" dir="1494499503vs15cwzsym" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1482664754q7xkh5ca6k" name="C++">
     <recordtable>
@@ -107,6 +115,7 @@
     <node crypt="" id="1504888667301qfqvxpg" name="VMWare">
      <recordtable>
       <record id="15048919807n92ptj0ei" name="Как подключить к виртуальной машине несколько мониторов " author="" url="" tags="vm, vmware, monitor" ctime="20170908203300" dir="1504891980bm83go2qk6" file="text.html"/>
+      <record id="1505140925ha8i8paw8b" name="Shared folder in Linux without X" author="" url="" tags="shared folder" ctime="20170911174205" dir="1505140925phqsy2d03y" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -122,6 +131,13 @@
      <record id="15023027539ofk52neqd" name="TotalCommander" author="" url="" tags="total commander" ctime="20170809231913" dir="1502302753w6i317ltez" file="text.html"/>
      <record id="15023028517s2tow34ze" name="AutoHotKey" author="" url="" tags="autohotkey, hotkey" ctime="20170809232051" dir="15023028513cfeiguopc" file="text.html"/>
      <record id="1502370390g9rdt4897b" name="Visual Assistant" author="" url="" tags="" ctime="20170810180630" dir="15023703901k8myecap5" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1505031478n781j7krqv" name="Android">
+    <recordtable>
+     <record id="1505031965n76e32agx8" name="Engineer menu" author="" url="" tags="engineer, advanced, volume" ctime="20170910112605" dir="15050319654pbz9xgbsh" file="text.html"/>
+     <record id="1505032047qbfhip6qp3" name="Enable developer options" author="" url="" tags="android, developer" ctime="20170910112727" dir="1505032047dkdsv2x0ku" file="text.html"/>
+     <record id="1505115093nptcgpnwkb" name="Engineer codes" author="" url="" tags="codes, android" ctime="20170911103133" dir="1505115093mb5qicahhp" file="text.html"/>
     </recordtable>
    </node>
   </node>
