@@ -47,6 +47,7 @@
    <node crypt="" id="1481461637dv6an985ib" name="vi">
     <recordtable>
      <record id="1481461810e1opwnuk7u" name="Шпаргалка" author="" url="" tags="vi" ctime="20161211151010" dir="1481461810f4iluma27s" file="text.html"/>
+     <record id="15052243194tujisxjs8" name="Used commands" author="" url="" tags="vi, commands" ctime="20170912165159" dir="1505224319m8ksymcz74" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1481478938beeo3hmbb2" name="Книги"/>
@@ -124,6 +125,16 @@
      <record id="1501746878ccv6ifmf2b" name="Обработка facility правильным парсером" author="" url="" tags="facility, h460" ctime="20170803105438" dir="1501746878uwvwkvcu9n" file="text.html"/>
      <record id="1502349367sklxr7kkxj" name="H460 bugs" author="" url="" tags="" ctime="20170810121607" dir="1502349367mt0hxuv6tj" file="text.html"/>
     </recordtable>
+    <node crypt="" id="150521454618u5vw9req" name="H460">
+     <recordtable>
+      <record id="1505214563vagck7i2lm" name="Yealink calls" author="" url="" tags="" ctime="20170912140923" dir="150521456377jpu7szf2" file="text.html"/>
+     </recordtable>
+    </node>
+    <node crypt="" id="1505223453nf7oy1mjdo" name="LDAP avatars">
+     <recordtable>
+      <record id="1505223643ac4j9u4nkd" name="Open questions" author="" url="" tags="" ctime="20170912164043" dir="1505223643helnzru7my" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="15023026130tmwdxiirl" name="Software">
     <recordtable>
