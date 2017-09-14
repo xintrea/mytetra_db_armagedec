@@ -82,6 +82,11 @@
       <record id="1494499503uug2lq2u17" name="Информация о портах (команда netstat)" author="" url="" tags="netstat, ports, udp, tcp, network" ctime="20170911174508" dir="1494499503vs15cwzsym" file="text.html"/>
      </recordtable>
     </node>
+    <node crypt="" id="1505410430evoubik08f" name="Ubuntu">
+     <recordtable>
+      <record id="1505410462agmtg78vc5" name="Installation guide" author="" url="" tags="guide, programs, install" ctime="20170914203422" dir="1505410462c06guxyvxm" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
    <node crypt="" id="1482664754q7xkh5ca6k" name="C++">
     <recordtable>
