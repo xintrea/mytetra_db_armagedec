@@ -205,5 +205,11 @@
     </recordtable>
    </node>
   </node>
+  <node crypt="" id="150524837626z3g7sqky" name="Notes">
+   <recordtable>
+    <record id="1505248404pgaqk6mq0w" name="What to write to mytetra" author="" url="" tags="" ctime="20170912233324" dir="1505248404cg8np1t5ch" file="text.html"/>
+    <record id="1505285714mvfdn26cr2" name="VS_Storage" author="" url="" tags="" ctime="20170913095514" dir="15052857145bprnr7ina" file="text.html"/>
+   </recordtable>
+  </node>
  </content>
 </root>
