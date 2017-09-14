@@ -152,6 +152,11 @@
      <record id="1505115093nptcgpnwkb" name="Engineer codes" author="" url="" tags="codes, android" ctime="20170911103133" dir="1505115093mb5qicahhp" file="text.html"/>
     </recordtable>
    </node>
+   <node crypt="" id="1505393312h03f0awkdd" name="Mytetra">
+    <recordtable>
+     <record id="1505393469qdmi2ouoqm" name="WebClient" author="" url="https://webhamster.ru/webmytetra" tags="web client" ctime="20170914155109" dir="1505393469ttbuuvylr4" file="text.html"/>
+    </recordtable>
+   </node>
   </node>
   <node crypt="1" icon="" id="15045354367tidoxyine" name="UkM1U0lNUAMVc9ZiEbyH91AmLLr+BEEDvV9p6yU5ymD4pXqWwaqkCSyKAzDBSHgMLR3OmVTUomm4Urtfx5/agnrXd88Lsq8H">
    <node crypt="1" icon="" id="15045354488v13w3pvyj" name="UkM1U0lNUAMT4Xhgk2Ql+Lh3ZB2NoATGOSwnWQzdt6rh6Z9oAqE78Wxy/0+Pv4Qh">
@@ -209,6 +214,7 @@
    <recordtable>
     <record id="1505248404pgaqk6mq0w" name="What to write to mytetra" author="" url="" tags="" ctime="20170912233324" dir="1505248404cg8np1t5ch" file="text.html"/>
     <record id="1505285714mvfdn26cr2" name="VS_Storage" author="" url="" tags="" ctime="20170913095514" dir="15052857145bprnr7ina" file="text.html"/>
+    <record id="1505393499qnqx4z39an" name="Mytetra trueconf" author="" url="" tags="" ctime="20170914155139" dir="1505393499jra4jff0yc" file="text.html"/>
    </recordtable>
   </node>
  </content>
