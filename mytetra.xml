@@ -75,6 +75,8 @@
      <record id="1505141308ypc0lis3m9" name="Useful commands" author="" url="" tags="commands, linus, bash" ctime="20170911174828" dir="1505141308010vqyxqe6" file="text.html"/>
      <record id="1505142040wnaxzrdkwp" name="IP configuration" author="" url="" tags="ip, ifconfig" ctime="20170911180040" dir="1505142040sa2zoqvzkg" file="text.html"/>
      <record id="15052409789d7nkjgq1o" name="Change default booting OS" author="" url="" tags="boot, grub" ctime="20170912212938" dir="15052409789oazgr3ft3" file="text.html"/>
+     <record id="150541218880j8pee9u0" name="Customize bash command prompt" author="" url="" tags="bash, ps1, prompt" ctime="20170914210402" dir="1505412188av72xg8ace" file="text.html"/>
+     <record id="1505502075an5ofkar3h" name="Packet files and directories" author="" url="" tags="dpkg" ctime="20170915220115" dir="1505502075gslg9u3zfb" file="text.html"/>
     </recordtable>
     <node crypt="" id="1505141095zucmbftcas" name="Commands">
      <recordtable>
@@ -86,6 +88,8 @@
     <node crypt="" id="1505410430evoubik08f" name="Ubuntu">
      <recordtable>
       <record id="1505410462agmtg78vc5" name="Installation guide" author="" url="" tags="guide, programs, install" ctime="20170914203422" dir="1505410462c06guxyvxm" file="text.html"/>
+      <record id="1505415110140o20qa2n" name="Manage startup programs" author="" url="" tags="startup, init" ctime="20170914215150" dir="1505415110wqx3srtugs" file="text.html"/>
+      <record id="1505416607qc4jny46m0" name="Manage programs list" author="" url="" tags="alacarte, list, programs" ctime="20170914221647" dir="1505416607fnts0ffnee" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -162,6 +166,7 @@
     <recordtable>
      <record id="1505393469qdmi2ouoqm" name="WebClient" author="" url="https://webhamster.ru/webmytetra" tags="web client" ctime="20170914155109" dir="1505393469ttbuuvylr4" file="text.html"/>
      <record id="15053980790py1qk7n84" name="Quick notes" author="" url="" tags="notes, quick" ctime="20170914170759" dir="1505398079y1c9vpvbe7" file="text.html"/>
+     <record id="1505503515ro5m0c2wwg" name="Ubuntu configuration" author="" url="" tags="ubuntu, mytetra, configuration" ctime="20170915222515" dir="1505503515v98bxn8p0x" file="text.html"/>
     </recordtable>
    </node>
   </node>
