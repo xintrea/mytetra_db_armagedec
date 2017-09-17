@@ -173,7 +173,8 @@
    <node crypt="" id="1505633287vs9fwvtc2w" name="Languages">
     <node crypt="" id="1505633306d8u9uvyk5k" name="Espanol">
      <recordtable>
-      <record id="1505633998ye55koc03s" name="500 самых важных слов" author="" url="" tags="500, words" ctime="20170917103958" dir="150563399824agtfofp4" file="text.html"/>
+      <record id="1505633998ye55koc03s" name="500 самых важных слов" author="" url="http://poligloty.blogspot.com/2013/05/500-samyh-vazhnyh-slov-ispanskogo-yazyka.html" tags="500, words" ctime="20170917103958" dir="150563399824agtfofp4" file="text.html"/>
+      <record id="1505635609b894ln6ko2" name="Courses" author="" url="" tags="course" ctime="20170917110649" dir="1505635609xb5pf8rjb2" file="text.html"/>
      </recordtable>
     </node>
    </node>
