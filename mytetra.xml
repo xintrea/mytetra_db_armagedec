@@ -98,6 +98,7 @@
     <recordtable>
      <record id="1482669130xwwsb1ofz9" name="pragma pack" author="" url="" tags="pragma, pack, alignment" ctime="20161225143210" dir="1482669130pkzmlg7d6d" file="text.html"/>
      <record id="1491597478k6kw936z6u" name="getline" author="" url="" tags="getline, string" ctime="20170407233758" dir="1491597478zyd0yccpxo" file="text.html"/>
+     <record id="1505630188wtsllufug1" name="c++ shell" author="" url="http://cpp.sh/" tags="shell, c++, repl" ctime="20170917093628" dir="1505630188fxintlf3i6" file="text.html"/>
     </recordtable>
    </node>
    <node crypt="" id="1490707858ge6dqk3lb5" name="Windows">
@@ -169,6 +170,14 @@
      <record id="15053980790py1qk7n84" name="Quick notes" author="" url="" tags="notes, quick" ctime="20170914170759" dir="1505398079y1c9vpvbe7" file="text.html"/>
      <record id="1505503515ro5m0c2wwg" name="Ubuntu configuration" author="" url="" tags="ubuntu, mytetra, configuration" ctime="20170915222515" dir="1505503515v98bxn8p0x" file="text.html"/>
     </recordtable>
+   </node>
+   <node crypt="" id="1505633287vs9fwvtc2w" name="Languages">
+    <node crypt="" id="1505633306d8u9uvyk5k" name="Espanol">
+     <recordtable>
+      <record id="1505633998ye55koc03s" name="500 самых важных слов" author="" url="http://poligloty.blogspot.com/2013/05/500-samyh-vazhnyh-slov-ispanskogo-yazyka.html" tags="500, words" ctime="20170917103958" dir="150563399824agtfofp4" file="text.html"/>
+      <record id="1505635609b894ln6ko2" name="Courses" author="" url="" tags="course" ctime="20170917110649" dir="1505635609xb5pf8rjb2" file="text.html"/>
+     </recordtable>
+    </node>
    </node>
   </node>
   <node crypt="1" icon="" id="15045354367tidoxyine" name="UkM1U0lNUAMVc9ZiEbyH91AmLLr+BEEDvV9p6yU5ymD4pXqWwaqkCSyKAzDBSHgMLR3OmVTUomm4Urtfx5/agnrXd88Lsq8H">
