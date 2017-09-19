@@ -90,6 +90,7 @@
       <record id="1505410462agmtg78vc5" name="Installation guide" author="" url="" tags="guide, programs, install" ctime="20170914203422" dir="1505410462c06guxyvxm" file="text.html"/>
       <record id="1505415110140o20qa2n" name="Manage startup programs" author="" url="" tags="startup, init" ctime="20170914215150" dir="1505415110wqx3srtugs" file="text.html"/>
       <record id="1505416607qc4jny46m0" name="Manage programs list" author="" url="" tags="alacarte, list, programs" ctime="20170914221647" dir="1505416607fnts0ffnee" file="text.html"/>
+      <record id="1505800573z3k9plaxi3" name="Dual boot time issue" author="" url="" tags="boot, time" ctime="20170919085613" dir="1505800573wfleyq5k1d" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -170,11 +171,11 @@
      <record id="1505503515ro5m0c2wwg" name="Ubuntu configuration" author="" url="" tags="ubuntu, mytetra, configuration" ctime="20170915222515" dir="1505503515v98bxn8p0x" file="text.html"/>
     </recordtable>
    </node>
-   <node crypt="" id="1505633287vs9fwvtc2w" name="Languages">
-    <node crypt="" id="1505633306d8u9uvyk5k" name="Espanol">
+   <node crypt="1" icon="" id="1505633287vs9fwvtc2w" name="UkM1U0lNUAPB/Hcug0Q2dZOD/nPwkByNs86oN4e8a9exKi013BpmjpbpIDoHNCE1V9tswXJG828=">
+    <node crypt="1" icon="" id="1505633306d8u9uvyk5k" name="UkM1U0lNUAN4S78N0WwQNr7kxf/rtIDgxPH8piYX8R4t67i8kwgVengQttdNSlTN">
      <recordtable>
-      <record id="1505633998ye55koc03s" name="500 самых важных слов" author="" url="http://poligloty.blogspot.com/2013/05/500-samyh-vazhnyh-slov-ispanskogo-yazyka.html" tags="500, words" ctime="20170917103958" dir="150563399824agtfofp4" file="text.html"/>
-      <record id="1505635609b894ln6ko2" name="Courses" author="" url="" tags="course" ctime="20170917110649" dir="1505635609xb5pf8rjb2" file="text.html"/>
+      <record id="1505633998ye55koc03s" name="UkM1U0lNUAPnCt0jv41wVRuLY/TEB9/lVH3XkGz/QIqfMo31lRjnDrCN23cG1zW/m3DI/EyrMfSWUueknKbmpNiOx2cwLjRa3NK3fZ0vN6g=" author="" url="UkM1U0lNUAOfqWgGSCLjIIGykDymtRfM7JP+2Xy0eF0oQoUNiHT0JnSFTWCQEj31coUmWJwleFKTtKXkAh6/4Db3TbbBcGB+nT6qfPn3TlB+UXzcCpPKbD8d9FTSx9L7AyTFsxVBpQfDiV0OokRIYX+BJcpZ+kGaDTn14551g18=" tags="UkM1U0lNUAPTEFwc5pi+Tfq8izRtMH75ViMHbElD/+6jqbPTTtIeF40a3rIqUYL/1oFPDluJc+s=" ctime="20170917103958" dir="150563399824agtfofp4" file="text.html" crypt="1"/>
+      <record id="1505635609b894ln6ko2" name="UkM1U0lNUAM5yS9rZZz3lME7ENftYDax/fsaRfMr5r+ezUvN1sONTeDNBj1Ywucg" author="" url="" tags="UkM1U0lNUAPMqvBuMaDcecxu3gNsIYZR+JG068VeoqQskdIAKKPmrHrKEjB8veIP" ctime="20170917110649" dir="1505635609xb5pf8rjb2" file="text.html" crypt="1"/>
      </recordtable>
     </node>
    </node>
@@ -231,11 +232,11 @@
     </recordtable>
    </node>
   </node>
-  <node crypt="" id="150524837626z3g7sqky" name="Notes">
+  <node crypt="1" icon="" id="150524837626z3g7sqky" name="UkM1U0lNUAMfBSNHjwtNUvDzOxeRmvsumfv/Wf6qzG+FbuLkuyDSR1epjkw8EUoR">
    <recordtable>
-    <record id="1505248404pgaqk6mq0w" name="What to write to mytetra" author="" url="" tags="" ctime="20170912233324" dir="1505248404cg8np1t5ch" file="text.html"/>
-    <record id="1505285714mvfdn26cr2" name="VS_Storage" author="" url="" tags="" ctime="20170913095514" dir="15052857145bprnr7ina" file="text.html"/>
-    <record id="1505393499qnqx4z39an" name="Mytetra trueconf" author="" url="" tags="" ctime="20170914155139" dir="1505393499jra4jff0yc" file="text.html"/>
+    <record id="1505248404pgaqk6mq0w" name="UkM1U0lNUANsfBMny/I3aDw5LBGu9EeiaWiRhQJi2RT1+JTfjHpb2wZKSjKJatFBU70i3jXnrRSv1zBYWLBQ6g==" author="" url="" tags="" ctime="20170912233324" dir="1505248404cg8np1t5ch" file="text.html" crypt="1"/>
+    <record id="1505285714mvfdn26cr2" name="UkM1U0lNUAO0oucb7dzN67aKoMzVjqqQKh+VAFItd+IXlR6bHtN6TwSEd7dOukdtIIj5TMa29lY=" author="" url="" tags="" ctime="20170913095514" dir="15052857145bprnr7ina" file="text.html" crypt="1"/>
+    <record id="1505393499qnqx4z39an" name="UkM1U0lNUAMlUcbujGAQ6ae5zZ8OW6+SdXqogrvqdf0HG/8XwDtNckaQaEKNAbAU23+tKDXQLjw=" author="" url="" tags="" ctime="20170914155139" dir="1505393499jra4jff0yc" file="text.html" crypt="1"/>
    </recordtable>
   </node>
  </content>
