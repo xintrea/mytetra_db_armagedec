@@ -108,6 +108,7 @@
      <record id="1500787653opbxrhgoi2" name="Проверка состояния батареи" author="" url="" tags="battery, energy" ctime="20170723082733" dir="1500787653c6h82r0sxk" file="text.html"/>
      <record id="1502698222qqj08kyh59" name="Управление гибернацией" author="" url="" tags="hibernation" ctime="20170814111022" dir="1502698222gs9tdompp5" file="text.html"/>
      <record id="1504900107ayq4icayvf" name="Проверка жесткого диска" author="" url="" tags="hdd, check" ctime="20170908224827" dir="1504900107e0wgrfgp0d" file="text.html"/>
+     <record id="1505917588xybbxeizgj" name="Run batch script as administrator" author="" url="" tags="admin, root, batch" ctime="20170920172628" dir="1505917588yz3s14w1ss" file="text.html"/>
     </recordtable>
     <node crypt="" id="1493706716m8f6aorma9" name="Visual Studio">
      <recordtable>
@@ -237,6 +238,7 @@
    <recordtable>
     <record id="1505248404pgaqk6mq0w" name="UkM1U0lNUANsfBMny/I3aDw5LBGu9EeiaWiRhQJi2RT1+JTfjHpb2wZKSjKJatFBU70i3jXnrRSv1zBYWLBQ6g==" author="" url="" tags="" ctime="20170912233324" dir="1505248404cg8np1t5ch" file="text.html" crypt="1"/>
     <record id="1505393499qnqx4z39an" name="UkM1U0lNUAMlUcbujGAQ6ae5zZ8OW6+SdXqogrvqdf0HG/8XwDtNckaQaEKNAbAU23+tKDXQLjw=" author="" url="" tags="" ctime="20170914155139" dir="1505393499jra4jff0yc" file="text.html" crypt="1"/>
+    <record id="1505891189vr6bc9lpyw" name="UkM1U0lNUAMMRYrbuhbFXz5AuhA/1LrzjDgPYSb8aCT+8VrELiYAskCN17PbDIGx" author="" url="" tags="" ctime="20170920100629" dir="1505891189ezswwyr515" file="text.html" crypt="1"/>
    </recordtable>
   </node>
  </content>
