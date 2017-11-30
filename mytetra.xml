@@ -105,6 +105,7 @@
      <record id="1505917588xybbxeizgj" name="Run batch script as administrator" author="" url="" tags="admin, root, batch" ctime="20170920172628" dir="1505917588yz3s14w1ss" file="text.html"/>
      <record id="1508416280fjw8wqg1qp" name="Отключение файла подкачки" author="" url="" tags="pagefile.sys, swap" ctime="20171019153120" dir="1508416280n076fqdsnf" file="text.html"/>
      <record id="1509726663kvsq4e8zdn" name="Folder default view" author="" url="" tags="view, folder, default" ctime="20171103183103" dir="1509726663udq5di60uz" file="text.html"/>
+     <record id="15101183720otkpsbpw1" name="Full screen mstsc" author="" url="" tags="full, mstsc, remote" ctime="20171108071932" dir="1510118372n4xwarovhn" file="text.html"/>
     </recordtable>
     <node crypt="" id="1493706716m8f6aorma9" name="Visual Studio">
      <recordtable>
@@ -152,6 +153,7 @@
      <recordtable>
       <record id="15059791276ftrd11u3g" name="41427" author="" url="" tags="" ctime="20170921103207" dir="1505979127o6x0k96cg6" file="text.html"/>
       <record id="1506315177da1etngksj" name="41488" author="" url="" tags="" ctime="20170925075257" dir="15063151779ihnd60pxk" file="text.html"/>
+      <record id="1509984804hl0i97e0nd" name="42426" author="" url="" tags="" ctime="20171106181324" dir="15099848047m97ioay1m" file="text.html"/>
      </recordtable>
     </node>
    </node>
@@ -228,6 +230,11 @@
    <node crypt="" id="1508652472idut2mi37h" name="Health">
     <recordtable>
      <record id="1508652508eh4afmwuzw" name="Eye relax" author="" url="" tags="Eye relax, глаза" ctime="20171022090828" dir="1508652508geko84fxs5" file="text.html"/>
+    </recordtable>
+   </node>
+   <node crypt="" id="1512030278l97i4ez4ni" name="Travel">
+    <recordtable>
+     <record id="15120302924uh0oixtp1" name="List" author="" url="" tags="travel, list" ctime="20171130102452" dir="15120302920y8gpg79o5" file="text.html"/>
     </recordtable>
    </node>
   </node>
