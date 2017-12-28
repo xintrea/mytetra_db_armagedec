@@ -3,180 +3,196 @@
 <root>
  <format version="1" subversion="2"/>
  <content>
-  <node crypt="" id="14813066435d0miklsgh" name="root">
-   <node crypt="" id="1481386952j9tqrpfnx9" name="git">
+  <node crypt="1" icon="" id="14813066435d0miklsgh" name="UkM1U0lNUANSCJeHyQDXiiELohAG+/kdRe76jFV4Gf8YZWJVwQVqt8oDYHY+e8Lu">
+   <node crypt="1" icon="" id="1481386952j9tqrpfnx9" name="UkM1U0lNUAPF1nDvgcpeBmAwc2p5gaWEL6RJoUN88103LAyRjdr1U/MnrbwkXggj">
     <recordtable>
-     <record id="1505411955khlk2ly2v6" name="First TIme Git Setup" author="" url="" tags="git setup" ctime="20170914205915" dir="1505411955hshasx7umu" file="text.html"/>
-     <record id="1481387047n8fxdemi4t" name="Удаление remote branch" author="" url="" tags="remote, branch, remove" ctime="20161210182407" dir="1481387047ud7n3ety1q" file="text.html"/>
-     <record id="1481459708iz42yamapy" name="Шпаргалка по командам" author="" url="" tags="git, commands, repo" ctime="20161211143508" dir="14814597081vhsmhi9n8" file="text.html"/>
-     <record id="1481463336o4ubh0ztgx" name="Формат pretty" author="" url="" tags="pretty, git" ctime="20161211153536" dir="1481463336ns4cwlt0cw" file="text.html"/>
-     <record id="14814859642t2pvo4k1p" name="Как смержить изменения с experimental в master" author="" url="" tags="merge" ctime="20161211215244" dir="148148596492dzxpb96l" file="text.html"/>
-     <record id="14814862525cx65k1kzp" name="Как переключится на нужный коммит" author="" url="" tags="commit, checkout" ctime="20161211215732" dir="14814862525ujjk39pw8" file="text.html"/>
-     <record id="1481486536iy6rmv4utn" name="Понимание работы merge" author="" url="" tags="merge" ctime="20161211220216" dir="1481486536haxtaaxjsh" file="text.html"/>
-     <record id="1481487245d598iukpou" name="Как просмортеть изменения внесенные определенным коммитом" author="" url="" tags="commit, log, show" ctime="20161211221405" dir="1481487245yoi6jlszgv" file="text.html"/>
-     <record id="1481487444wohxnehhs6" name="Как посмотреть историю изменения конкретного файла" author="" url="" tags="log, history" ctime="20161211221724" dir="14814874445laj0yg0ds" file="text.html"/>
-     <record id="1481487604um13kiccqh" name="Как вернуть один файл в состояние, которое было в определенном коммите" author="" url="" tags="checkout, log" ctime="20161211222004" dir="1481487604x87e6vtns1" file="text.html"/>
-     <record id="14814877839imximuvsg" name="Как узнать текущую ветку" author="" url="" tags="branch, checkout" ctime="20161211222303" dir="14814877838x2p038cve" file="text.html"/>
-     <record id="1481488040h0mz12zptb" name="Как внести изменения в последний коммит" author="" url="" tags="commit" ctime="20161211222720" dir="1481488040e34vpgcx1m" file="text.html"/>
-     <record id="1481488341j9rpqu5ksu" name="Как подключить новую ветку с сервера" author="" url="" tags="pull, branch" ctime="20161211223221" dir="1481488341ddgzciisnb" file="text.html"/>
-     <record id="14814885646qjkflw2ng" name="Как исправить HEAD detached from" author="" url="" tags="HEAD, push" ctime="20161211223604" dir="1481488564l16s6w3bgv" file="text.html"/>
-     <record id="1481488992dze63bsh1o" name="Как испарвить ошибочный комментарий к коммиту" author="" url="" tags="commit, comment" ctime="20161211224312" dir="1481488992o1bnlq9hsc" file="text.html"/>
-     <record id="1481565556jqhxw6sqcs" name="Как создать новую ветку в условиях, когда произошли изменения после последнего коммита" author="" url="" tags="branch, commit" ctime="20161212195916" dir="148156555667y7hpdw8w" file="text.html"/>
-     <record id="1481565835if3tv626p7" name="Как залить локальную ветку на удаленный репозиторий" author="" url="" tags="origin, branch" ctime="20161212200355" dir="1481565835n59426racj" file="text.html"/>
-     <record id="1481566381wwh8nih2x0" name="Ежедневный git" author="" url="" tags="git" ctime="20161212201301" dir="1481566381m8dcaw9z3b" file="text.html"/>
-     <record id="1481567079exftci0oeg" name="Команда stash" author="" url="" tags="stash" ctime="20161212202439" dir="1481567079bta91eryw5" file="text.html"/>
-     <record id="1481567300p9io31ezvo" name="Как посмотреть настройки репозитория" author="" url="" tags="config" ctime="20161212202820" dir="148156730070mmty49mi" file="text.html"/>
-     <record id="1481567592clu2ewnaa9" name="Как перенести локальный репозиторий на сервер" author="" url="" tags="repo, origin" ctime="20161212203312" dir="1481567592x5vf9ygodr" file="text.html"/>
-     <record id="1481567976xp4ga1ulh8" name="Команда reset, откат" author="" url="" tags="reset" ctime="20161212203936" dir="1481567976vidpk7l7hb" file="text.html"/>
-     <record id="14815680899uo9ungg17" name="Команда revert" author="" url="" tags="revert" ctime="20161212204129" dir="1481568089oua8qkpllm" file="text.html"/>
-     <record id="14815688722i5u1kql4s" name="Работа с ветками" author="" url="" tags="branch" ctime="20161212205432" dir="1481568872axr6nyrxjw" file="text.html"/>
-     <record id="1481570494rhf5fqdyje" name="Команда rebase" author="" url="" tags="rebase" ctime="20161212212134" dir="1481570494yijyyilnri" file="text.html"/>
-     <record id="1481570708dbcedb1zqi" name="Особенности log при навигации по истории с помощью checkout" author="" url="" tags="log, history, checkout" ctime="20161212212508" dir="1481570708wkwr5rxj5h" file="text.html"/>
-     <record id="14815714132jt40qgwqa" name="Разница между pull и fetch" author="" url="" tags="pull, fetch" ctime="20161212213653" dir="1481571413xvrh9a4ia7" file="text.html"/>
-     <record id="1481573982t5ner5admw" name="Удачная модель ветвления" author="" url="" tags="branch" ctime="20161212221942" dir="1481573982bw1nomrvmk" file="text.html"/>
-     <record id="1481574652ma15kaacrj" name="Использование proxy" author="" url="" tags="proxy" ctime="20161212223052" dir="1481574652z5d2zl7py9" file="text.html"/>
-     <record id="149033350471i4su1hcc" name="Использование различных SSH ключей" author="" url="" tags="ssh, git" ctime="20170324073144" dir="1490333504s2qnv0iidq" file="text.html"/>
-     <record id="1494506053bs1nqef4s7" name="Очистка индекса" author="" url="" tags="index, reset, commit, git" ctime="20170511153413" dir="149450605303eb1wbaar" file="text.html"/>
+     <record id="1505411955khlk2ly2v6" name="UkM1U0lNUAMF/wHTxecKuH9fZy91GwT7ZvwUaui2MF8jp9v+ejH84UxZClMVb6cvLNaxpWGooYtPPdWUdemxUQ==" author="" url="" tags="UkM1U0lNUAM3Eom/O5ts2LpGZx3NBuiupa2n5g6uBaW3ubBVEWeE+H5fhNnGeHU7mYAAzF96tCw=" ctime="20170914205915" dir="1505411955hshasx7umu" file="text.html" crypt="1"/>
+     <record id="1481387047n8fxdemi4t" name="UkM1U0lNUAPNTuso6DbO6+4/iOLAEIiuSchFgOwplvI4OvoEG+QIvuY+OhZ7475uY/UXjZFLFOmyWZhcpE6UJSRbTKG+8cTN" author="" url="" tags="UkM1U0lNUANv07+eTsphZOclgAcUhblkcMPxR3PfSiJP1gazOoqiwWNaBW9dn6TYMwZaWIhzyR2bB22J/5c3cw==" ctime="20161210182407" dir="1481387047ud7n3ety1q" file="text.html" crypt="1"/>
+     <record id="1481459708iz42yamapy" name="UkM1U0lNUAPv6+3234MsZC1h44FcZYSbWpLU+DHwEuqkokyZteFMfkbnBvl0kqK3V2rs/hZ+ghCa+oQ1GwDPbJaXYnlVvpumZnO51JhSqgw=" author="" url="" tags="UkM1U0lNUANXXCBMj+JDBHNkASk9X/Hr15jWXsppSHVG/KRTHpT82+KZCPd8g3GhxQYDq7wapai2XfLo4iQK/g==" ctime="20161211143508" dir="14814597081vhsmhi9n8" file="text.html" crypt="1"/>
+     <record id="1481463336o4ubh0ztgx" name="UkM1U0lNUANENcp++PoQLX7Fn2rO3WBy7kqSSlwq/yM3Mu0+z3vE2cqtelaN4B9g+f8Cw+ZIB+AzTZJAcDP0Mg==" author="" url="" tags="UkM1U0lNUAMiZEuFOWO/D8ehTuQSrF5vtt87BWju5qXdsDYmKrWab5xEJ3bSMvBd8Vn7o3iyaA4=" ctime="20161211153536" dir="1481463336ns4cwlt0cw" file="text.html" crypt="1"/>
+     <record id="14814859642t2pvo4k1p" name="UkM1U0lNUAOw7tgddWpAi3FffzG2+IVP/oT5lBsuF7Bn9IvLlako/J5it9qwk+AfFw9tOpJYai0M6eyIAdGBiVs6+A8ZQpxRnTkNT0W/zGrHovU1OqoeaiC5ESgdJQVyBlzM2/41EBGYh/dtPwODuw==" author="" url="" tags="UkM1U0lNUAPcpb0LkSC8+pb9Lphmob5tj18PeHvOZThuGaVaZ89HJ/sSv/jhFOBd" ctime="20161211215244" dir="148148596492dzxpb96l" file="text.html" crypt="1"/>
+     <record id="14814862525cx65k1kzp" name="UkM1U0lNUAPBaZiIbwYGqee11KwSZbXwZKOFbq3viA7B70b36lotItF+Yim/UXp2eDxV3oGms5WO8w6ybRv4uuXYG8wJPKaKDIT4aMv6+RFsEgto2QG2ArFTzCdNSpoynV+3PGh/me0=" author="" url="" tags="UkM1U0lNUANmjo2d9kCUcPcDv7igiqUWpbdgskXL8Bw/0GjmR0/nkOJ4VCtoziCeDsGqJBB18R8=" ctime="20161211215732" dir="14814862525ujjk39pw8" file="text.html" crypt="1"/>
+     <record id="1481486536iy6rmv4utn" name="UkM1U0lNUAOsKiKPOZjUxYbxLuDkMu2EXFZAUYaun4wCI3htHamw/PkNnUvARz6uolAUlOjs+P981kNPnc2hbL2sLQZCswqJn/ZbcdI+oFQ=" author="" url="" tags="UkM1U0lNUAOl32573A+g3qFfjeyFDi10hQKYXHHKzO7y7lwl/vlTTrqkw/JAA5rW" ctime="20161211220216" dir="1481486536haxtaaxjsh" file="text.html" crypt="1"/>
+     <record id="1481487245d598iukpou" name="UkM1U0lNUAMiWEIQdI5kpMT/oCN+2KmVCHzZOXQ49lomWI3AqFbt3K6PZSsRiX8a9uRnIQm/M8YjlFT3Vj3iM5kCz8J7z69wpnmb71qB92NfRzlJ4x3+DsoX87MDQK18A5IapDlSQYOF6FPIa4rilPgIpgF1b8Vw+J3AvImIzFqOne1PXP1seYLfpCrzsOP3cjM6I3YJzdw=" author="" url="" tags="UkM1U0lNUAOKnsMkxQaJGwO5ee+DEt7ryBHYSepU3PLw1rVEJSH1Yrsj6sVMh0sM/4B2wh/9fqRCnTqSexjonQ==" ctime="20161211221405" dir="1481487245yoi6jlszgv" file="text.html" crypt="1"/>
+     <record id="1481487444wohxnehhs6" name="UkM1U0lNUAN7PA6D1YCJfpNlP8s7bTtWXAbPyZWJQ6i6AWE8ASNhJQXw9u2xTg9/zcnPltnAILRA/ODNn95iVdUIqdrc/BxypCvHZ/Bm4hxVYyyZhSKLIik8TD7gBpURN9DhxLJfNGkDI+JrZ9Rby/DQOBenNc4TrXc2mLXTbLzE9venS3U7WA==" author="" url="" tags="UkM1U0lNUANJwWPNVFqhNa7ZD6CC0pL04KJ9YF5Rpv7bsPcjiiS16ZoYGDrg1xZt6vE2wdwV1TI=" ctime="20161211221724" dir="14814874445laj0yg0ds" file="text.html" crypt="1"/>
+     <record id="1481487604um13kiccqh" name="UkM1U0lNUAN8ZqOuOb8qpEA1mPsEb/DV1+BORVjzfU8OMBbyR5jDNIVISWWqVBFjgBROES7X7UEmQ+53yLMAMKpJ7xmAmIrzlBIW/BiOYwnZ2O6b/cWeFKHtn0Dg859IWpLKa7d9gLIpEjgt7DjbNSOvGW5G2AywP/yIq4iznPJ9MB4vW5XwqPR1ByVO2eCQ6ouCuCrmAG3+aOc78MBVKRWFtPvB+8wR4Sjf32IQRlY=" author="" url="" tags="UkM1U0lNUAN7jGE7UwYqeBl1t77y/iUDdccUTbjUgYOSjh+HVUqbYKszKGXIZ/Lc7W3eruDaxdc=" ctime="20161211222004" dir="1481487604x87e6vtns1" file="text.html" crypt="1"/>
+     <record id="14814877839imximuvsg" name="UkM1U0lNUAMna517MQy1eggRoBkgUP1RMekTU6Flqf+8bboSIV5WjuK7rHewkhT3LbZ89/ZX1eGfd7xeRGP2hFviOqLo4bJhL2qVOnod5jqGhfig6zHw6g==" author="" url="" tags="UkM1U0lNUAOL6qr+th8jjZBwB9wbwGSOgVF2mYHYRU84zs7sBtGhzl+jr4CzkkQD2Cmboev8hag=" ctime="20161211222303" dir="14814877838x2p038cve" file="text.html" crypt="1"/>
+     <record id="1481488040h0mz12zptb" name="UkM1U0lNUAMGN8bftn8kadyOXoAL/j3f58eVKzRVoebScatsgnPHYxSsKGRe+PS82Z+VQsI7oKgGZIpQJAzrv+SyNVnMhLdpoL2SNu0QXGhU5Zro2O7GWNn/5fQV4QAuwgc96GbOO7E8DD6b47NTqAn/jFrKJNpN" author="" url="" tags="UkM1U0lNUAOdqOb8dkfLTNWB4BvkFxB0En/IiG3vWtLGCdnaXT0/qmD0wZ3+b0Q5" ctime="20161211222720" dir="1481488040e34vpgcx1m" file="text.html" crypt="1"/>
+     <record id="1481488341j9rpqu5ksu" name="UkM1U0lNUAMfLk53DBDsDrXL8iqFQmCFI/jReSzADlzWkxaw+CO3SdnKjSojaQL2CI/N3Xd6AuTOSJoTWLydB0ddeIsSmc5hjsa7rAboJ6w82IjPuH0aYHPsDHSYrTiJ37m2wZ8/LXSrUAFwbKDatQ==" author="" url="" tags="UkM1U0lNUAOOxgku44fDRMqiUCrjI5C0iwwnX6sLl+N7/A8ABex51pEXDL4dolGD/4nxnQ+TmpY=" ctime="20161211223221" dir="1481488341ddgzciisnb" file="text.html" crypt="1"/>
+     <record id="14814885646qjkflw2ng" name="UkM1U0lNUANLL8hf6Q1OtFO2HuuNXYGTSrnOEEI6o3o7TzsvCDrUJcadNKRNMF0HQlgQbA47zUMHJjblcj5w7y4LPotXgD0T9oPrQc2+3DZxzbOJUbOA3g==" author="" url="" tags="UkM1U0lNUAPXALwR5Z7GhUF3MjVGNSNqtfydT8YEoIUjhJeICsYsZaAAiGDM61zaEy2o859RHHA=" ctime="20161211223604" dir="1481488564l16s6w3bgv" file="text.html" crypt="1"/>
+     <record id="1481488992dze63bsh1o" name="UkM1U0lNUAMX5uaL4YFpR185OUuOWzyhtD6vTA+GIBp+3H17UNLJZ4HrSIefUxNBtthnNWPqVTnw4MxsFPGyA7JDNnaTye77yhyCdIoEWsANYGpYpwaaDZUELPr04f+A94AF0OhUlybGR0vSsen/m+dA6HPufbMffwBn3CKUy+M=" author="" url="" tags="UkM1U0lNUAMbkNmz8/gILFbvEfLQkf2S0biHclMYnhL9Hcm0mMBBDx9pLUCnccA52hxLjcBPad8=" ctime="20161211224312" dir="1481488992o1bnlq9hsc" file="text.html" crypt="1"/>
+     <record id="1481565556jqhxw6sqcs" name="UkM1U0lNUAOwkXNoKMFajIF/8EYMfKxmgLLjXhvH/zNTDMM+Iy8kVQ0s1/pehrkjp3iqXY+coi0/uFkK5Vy+jERUE4gg4Fmk5jkRteL9sUNQ3d6pxm6WSfLaCljQ62n7eao78TYrDeoCrjATFOOa3mB21bMSgO/cB5SDy8ryWLw1MPNUp/fhCCE4ExjaTZf5W5o/ARzYv076lJEnuIwHx1X3GkgPDGMdT/YRQ/FddHkK1FxoxP7loQwIh9cTzbdiP8FcUXwYErY=" author="" url="" tags="UkM1U0lNUAOLmgYmCUbSm1OKPEHYFQtG4BAaUtyZsGPl8hRHfOKWbilE+qlIIHXST73eBg8SAP0=" ctime="20161212195916" dir="148156555667y7hpdw8w" file="text.html" crypt="1"/>
+     <record id="1481565835if3tv626p7" name="UkM1U0lNUAPVUGXEP7l28Zcx6oS65KnDCHv7ACfzPobo9FYxExTww2Wuces6ZG34ItOyvpcfwfXMJs5JCktRADxxvtWYkj6PvAu3P16up6VFFwrd+1pdOn8K57NUkd6s3L0iKxNwJ8nvZQXBac2s69UrcpvOJMmwahJLRY8OtMzkSj0CJQuqhQ==" author="" url="" tags="UkM1U0lNUANuyqdwai69qtnwS+FBCZpErBukMwzWgYlZ9F6ngmltajBalMypLGHfz/h644toSMA=" ctime="20161212200355" dir="1481565835n59426racj" file="text.html" crypt="1"/>
+     <record id="1481566381wwh8nih2x0" name="UkM1U0lNUANz488IVrBDVhFm53q3+/WU4FUQ8FLZawb3vrtFMcqidrpfJbTMSrKO18J0SRlTrMdtofrHgns+Qg==" author="" url="" tags="UkM1U0lNUAN6l9EeOwihh6PhL1am7t0sSto7NB+WX+SmTRHraovQIcCuot5qcZK4" ctime="20161212201301" dir="1481566381m8dcaw9z3b" file="text.html" crypt="1"/>
+     <record id="1481567079exftci0oeg" name="UkM1U0lNUAPrUmg6tthe+MrKtLVe24uiQshI883fq6NLeN2CxRw0iQXznv5oc+NMLMhrdExMxaUDiSGXa+V6zQ==" author="" url="" tags="UkM1U0lNUAPWUej7b36+onog/k2QsLf1Kc1bYy1IpCpIZ1pFCPQ5gKnoNEcfunLW" ctime="20161212202439" dir="1481567079bta91eryw5" file="text.html" crypt="1"/>
+     <record id="1481567300p9io31ezvo" name="UkM1U0lNUAN5KGPKgA/9UfmCzuDzFAovjiiisBsdwr6JWK3zXqaLDYFe2yk0AXdpFr6neM+XUt0DOU93D/jLoFBWHqEMeIpU5S073MLEqCBSreMgtv94n6WgqKWHRVJPdLTCqDBxd8J21BgzLuFCgg==" author="" url="" tags="UkM1U0lNUAOm5myyS3SPLORb+kH9bB+ZDneV6/I51u3DV2pvyqP/e29AvVqRhqRB" ctime="20161212202820" dir="148156730070mmty49mi" file="text.html" crypt="1"/>
+     <record id="1481567592clu2ewnaa9" name="UkM1U0lNUAO97WXXIdDOphV8Pm2D26kQpPmmcHvFMSPUYztKSKNW2/yzJzrEQ9R/XwBd9qqCs+xXf4acXYUwpph5qBBpYDllbnYNmdYaKUJgYw8QMASGu2n1tQJ7OzPGikgpucRT/QpwDIBdf9mOZCc7V+UpGceIZNiQFFp7Mww=" author="" url="" tags="UkM1U0lNUAMQit9F0CmfakVjxHpddJLfPAXxKYC1494BPSdDiMeo6u29A81I71wLKLG9JDfQnT0=" ctime="20161212203312" dir="1481567592x5vf9ygodr" file="text.html" crypt="1"/>
+     <record id="1481567976xp4ga1ulh8" name="UkM1U0lNUAPGV7u4+XtVFpgxolZGy2RdyTbMH/ir1I0aBzHlEMtzSdgTenzcpmchvnX33dsMVNEZpaHFYcTop42Fc4mTccZk" author="" url="" tags="UkM1U0lNUANZDsGnqnDfvE3pY3RIt7IBuoDylbQ3vz2D+gqnYbUOOiPZlMHZ9/Q6" ctime="20161212203936" dir="1481567976vidpk7l7hb" file="text.html" crypt="1"/>
+     <record id="14815680899uo9ungg17" name="UkM1U0lNUAMef62k55dPPoJpLwxXpoTshe/UpjSOvMMBKnil/M7AgSihI6fHULEWOqPo6WIrcd8WlG8IarlBdA==" author="" url="" tags="UkM1U0lNUAMAKk8oNPvT8bhqGBqN4qvUN/3TYHFx1DyohSFjJv58w8Pro7+vgaQY" ctime="20161212204129" dir="1481568089oua8qkpllm" file="text.html" crypt="1"/>
+     <record id="14815688722i5u1kql4s" name="UkM1U0lNUAOQScOaskL9ut//lNo5AJxbLejrOXO2rsHb2zTb7MKFLKvPsLNshHi8zbBqjfM5HEqBTupjCSTbPVNoWJwXnyfW" author="" url="" tags="UkM1U0lNUANaLmhN0tOSwDlt32GRG4GjzDquaTxw7pCecjudYO7iJMXUsNRii/+u" ctime="20161212205432" dir="1481568872axr6nyrxjw" file="text.html" crypt="1"/>
+     <record id="1481570494rhf5fqdyje" name="UkM1U0lNUAP9D13YYj7y8z+BCND+wCQLj/IlPbwQQ/fxmFX75g+wZAZM5Te5VHDUEFAQiW0r1Mm5rUfcQ5RbSA==" author="" url="" tags="UkM1U0lNUAOTppven/OkOSq2g0sY8+KOk6dJWblajTFKYRQ49VOkrjORbPOqPKSl" ctime="20161212212134" dir="1481570494yijyyilnri" file="text.html" crypt="1"/>
+     <record id="1481570708dbcedb1zqi" name="UkM1U0lNUAMn5CD+4TEFLRRYqLAurq/5Mn6c4lBrTktGeEqfCl+vqOct3vgGBAW/YP+TXXUV49HsuDOb/+cRsQdCQP5vHMO5cft5WFGFQghz0ff1xZx0p5FJ+o4Dq8O8N/7OCiU1hIx3R/mpC4HafBc/291/Cn31gQovatwp4WCHdshlNsmmha8mGgGmXaAB" author="" url="" tags="UkM1U0lNUAN3P99In5S1hekVKdEgBChQFlduFJD9ZqXywOOl+MlF6HlQbxAvq5FGMoCi3Gd5O4FzXz3s3OsnAA==" ctime="20161212212508" dir="1481570708wkwr5rxj5h" file="text.html" crypt="1"/>
+     <record id="14815714132jt40qgwqa" name="UkM1U0lNUAPjwOzL90o5aVx0zqyt8DudkxfAQ0TfjNVURCV9hhdmgRKwjbJnoPnsBrmdmTlS8Hy1ONbMGnALyzuE1Z5H7P/5VgkodLsSBhs=" author="" url="" tags="UkM1U0lNUAMRWOvt6GVXMgc3ocQsgtg+o3KF/jYrPb0L6nOdvFJnCK9162dOR+NW3f1IenYpFkQ=" ctime="20161212213653" dir="1481571413xvrh9a4ia7" file="text.html" crypt="1"/>
+     <record id="1481573982t5ner5admw" name="UkM1U0lNUAOAg6ga0nNik6aPjEex9qWaulsNIce4Uxd8GdHguYeRIB2n/63vg+VBJ9Y1uN1oyAfJLw8/gemsULqDQ2/OG2b9Rm7gU4Ne/O7i1vSIRaZFDQ==" author="" url="" tags="UkM1U0lNUAMfcRRQXmN6sMssYcd9yG8QuZIr8U3tU1ewgVAZP/E0sGLEVMaHjca/" ctime="20161212221942" dir="1481573982bw1nomrvmk" file="text.html" crypt="1"/>
+     <record id="1481574652ma15kaacrj" name="UkM1U0lNUAOllWHY0P6f79yc5gtB+F8pbp2tQYdhE0wssCrWqsDqfcuRU2X/b0Rb5NBxF9ZT9CghldOC8q92wywe9ZkmbaPG" author="" url="" tags="UkM1U0lNUAP2UaI11B83tcaLtq3baE6GmYD0Bm9AqfJXbBWEOTAn3iwSwPEuJF1R" ctime="20161212223052" dir="1481574652z5d2zl7py9" file="text.html" crypt="1"/>
+     <record id="149033350471i4su1hcc" name="UkM1U0lNUAPQzEKPxjZYj0eg12edL9pg/dsPHxAR9Qsrb1qtG35jO94dGmkxf51VjWTNsyC6N4sg0DCE32n9WUcmkpEmmPHVQ4aRCrXGhFDcWdwMaZ+BmJdk2ogftnCIdFbNwNNuL7s=" author="" url="" tags="UkM1U0lNUANiw/DtHA7rqQnGQdpQ9290n8BTnIDG9BYLR/AyiA3RkRF/oGEUF53l" ctime="20170324073144" dir="1490333504s2qnv0iidq" file="text.html" crypt="1"/>
+     <record id="1494506053bs1nqef4s7" name="UkM1U0lNUAM+W1cblQxnxjmssSLwxDBygQxLjl3uGYwbU3ZUGaBv0QaMs4u2P9LhYPAZkaPkJWYZupD279q8VvVjKZ0auJWH" author="" url="" tags="UkM1U0lNUAOFYgHxZya1GDSKLXBRlUJqId0mOjLinnUxCNQofg0j3hE31HO/jyqM2DlXtUC7if8CtYLY2phdnWNMDQdsIfgW" ctime="20170511153413" dir="149450605303eb1wbaar" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1481461637dv6an985ib" name="vi">
+   <node crypt="1" icon="" id="1481461637dv6an985ib" name="UkM1U0lNUAOA939SBhVWdMQF9Y0tDDey48J2/bsv6t/BEOwHqFY+38FZaLxtp0jS">
     <recordtable>
-     <record id="1481461810e1opwnuk7u" name="Шпаргалка" author="" url="" tags="vi" ctime="20161211151010" dir="1481461810f4iluma27s" file="text.html"/>
-     <record id="15052243194tujisxjs8" name="Used commands" author="" url="" tags="vi, commands" ctime="20170912165159" dir="1505224319m8ksymcz74" file="text.html"/>
+     <record id="1481461810e1opwnuk7u" name="UkM1U0lNUAPpVxySE1jdP3WmlZ7Fk8WUoJ/DPMLrY3J98LwtzSdzVODzfFnYSCbDnC2ufW9aajyxDCSoVGaDEA==" author="" url="" tags="UkM1U0lNUAO+hmWQZNzNYJ1EAOCORW2H0bHbf+1xSIqzSlfXssYLBFoQDLvJDwjI" ctime="20161211151010" dir="1481461810f4iluma27s" file="text.html" crypt="1"/>
+     <record id="15052243194tujisxjs8" name="UkM1U0lNUAMg79cUs0P5lP1N5WMSyfkfJGsrwylrH/RJUmu/Td7SY25VSJ0XX6q3ah4bxKZDT4k=" author="" url="" tags="UkM1U0lNUAPkHfeLVJpZGCEMjQGhakzMF6bYAmfLKSRugrsl0uy74oLiy5WFzmNj8sHzUNGSRNg=" ctime="20170912165159" dir="1505224319m8ksymcz74" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1481478938beeo3hmbb2" name="Книги"/>
-   <node crypt="" id="1481479185z1i635glvy" name="Cсылки">
+   <node crypt="1" icon="" id="1481478938beeo3hmbb2" name="UkM1U0lNUAOjGResMQXLZBD/YvQpY3e8aKeC3QiAOZsA0208PybQTEN8xXW3jLI3b1kQfpm9j7I=">
     <recordtable>
-     <record id="1481479274jllfs3jn83" name="1001 книга которую должен прочитать каждый" author="" url="" tags="book, must read" ctime="20161211200114" dir="1481479274i220o5mlqh" file="text.html"/>
-     <record id="1504977204nm4jwmccat" name="Перевод выражений на английский" author="" url="" tags="reverso, translate" ctime="20170909201324" dir="1504977204gky8x6jj5c" file="text.html"/>
+     <record id="15142684442a01iqprmu" name="UkM1U0lNUANLtbAEbHwngwLTBe2z1OvNltKhf6qvkX27O4JDaPRfEwzezL2qD360eq/21T7R4IsMOiN1Gt50Og==" author="" url="" tags="" ctime="20171226080724" dir="1514268444n7o7gfhlqx" file="text.html" crypt="1"/>
+     <record id="15142687532jb112dxcx" name="UkM1U0lNUAM8Bvif50W9DJiPlY1gpEFrlPhJJc6TjEjQC90GmdjL3r8P0pHSzi+dE6IY21dcG1FlqG3Sf7lDZLKBqmHjSO/h" author="" url="" tags="" ctime="20171226081233" dir="1514268753nbs1bgyh9p" file="text.html" crypt="1"/>
+     <record id="15142691642w7y03elet" name="UkM1U0lNUAO3UwQRe7vyFhWfYuwIqUG5mxS810Ja7qhuZdfmaFvAKSYDR1F92zkSzZ5Asms+pZM=" author="" url="" tags="" ctime="20171226081924" dir="1514269164wg49fhpcer" file="text.html" crypt="1"/>
+     <record id="1514269381tnll06n4yi" name="UkM1U0lNUAMkqBIlbr1Ak3W1CBj4cbsikPMWRgeAI5rRp1B4ePu6dtG19BaH/38RYNQM7yvvgThkyi+UaKZKew==" author="" url="" tags="" ctime="20171226082301" dir="1514269381rojx7h1b25" file="text.html" crypt="1"/>
+     <record id="1514269597ctddrhlrb0" name="UkM1U0lNUAPzWyigzvMnjdbckdl1buMhlFru7ZwKI+EN6qMQ7fmlc13AsST9dNAVSe1H/Huu8iQH1nLuzBKQAJ6En/D7Cl1I9Mh0De+Rm1M=" author="" url="" tags="" ctime="20171226082637" dir="1514269597x6fmz2zpkq" file="text.html" crypt="1"/>
+     <record id="1514269792x2omtq356o" name="UkM1U0lNUAOwo0MvdDQ4lR+5htfvmpka57Jd3aDnNoxh+sUoN6lI30cXMaBsmXEpzyKKJoB3YOk=" author="" url="" tags="" ctime="20171226082952" dir="1514269792r6m73ichno" file="text.html" crypt="1"/>
+     <record id="151427038293vrxioksi" name="UkM1U0lNUAPt7YSqa8BqHxBnAMkfnJNEv2ZYvGgnWFIeGBc5haZgZPlWGcX/d8Pd2iCCn+rWz2PVObB0PXIBhAsdW684Yf81f42ewKBripY=" author="" url="" tags="" ctime="20171226083942" dir="1514270382qrl2b17xvo" file="text.html" crypt="1"/>
+     <record id="1514270491gdkg7usrx8" name="UkM1U0lNUAPbEifw6LQjjXTaj61rzJu2oUq9Y6Ff8TSYlL0fhMnePyzyx54MI5rEaxNaXEIjrr7meZofKT0NJSBFvtVEvvgQ" author="" url="" tags="" ctime="20171226084131" dir="1514270491kuiq8gpdm2" file="text.html" crypt="1"/>
+     <record id="1514270608kbw1wp7fmf" name="UkM1U0lNUAPvS1FgfypBJ3KuyLV4AXj7ObBiefi39GZ2ud6dptL0g6RyV214DKAQgi8RSF0sVGA=" author="" url="" tags="" ctime="20171226084328" dir="1514270608jdpgl3bpdy" file="text.html" crypt="1"/>
+     <record id="1514270751poflvgcrcd" name="UkM1U0lNUANrK3J8cE270HXT0ymEf0Mn4plON6YM5u0xhBjLu3+/G/HaEoEZVQPS" author="" url="" tags="" ctime="20171226084551" dir="1514270751jrt9rm7pfz" file="text.html" crypt="1"/>
+     <record id="1514270876bj8m2laabu" name="UkM1U0lNUAPIKPKE6KI33B3S7KxyJrMkWdocXMdO0D8Yme2KeLJb0teW1bW2BY35nX3SAAW+0Ot8A4fnPQIZTTegj7gZ+jNO" author="" url="" tags="" ctime="20171226084756" dir="1514270876w8uabq46kp" file="text.html" crypt="1"/>
+     <record id="1514271460i5mopwobiy" name="UkM1U0lNUAP2wa3wRlqKo/e8+oy0TLtarXKgN+xq9uWJ/0i+7TFcHwdTYCzgNHNzdOMl6YWfrv0ElSNK36EhibkE/KRIBxOAGrKjvpWutSE5nBnJP9t8wA==" author="" url="" tags="" ctime="20171226085740" dir="1514271460q0ab4omzzs" file="text.html" crypt="1"/>
+     <record id="15142723844jxl0ankmc" name="UkM1U0lNUAMBmkKgcm2XdH5cYb8SwF08eUZB6kVx1bp2NX/SX+Mk8W4OgQUSMfUELytbYSp0aN4Ui8TB0uPGgi+XKwmesvNg" author="" url="" tags="" ctime="20171226091304" dir="1514272384812deds7zg" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1481575037sfgtu9n4w5" name="gdb">
+   <node crypt="1" icon="" id="1481479185z1i635glvy" name="UkM1U0lNUAP0hKAVxjFqh4gA0OfJVBpSZs+P7KUjmEG23JnzLXdiXTjwebYvYSJKsUmeFT0RQNA=">
     <recordtable>
-     <record id="1481576434a30od8dvj5" name="Шпаргалка gdb" author="" url="" tags="gdb" ctime="20161212230034" dir="148157643445m24hebql" file="text.html"/>
+     <record id="1481479274jllfs3jn83" name="UkM1U0lNUAOyf6CT6sJSTNHfSwH0wbqjYmO7NPWgHgIgA6/hrTv2RCGkZrpr6DcJrApZST0xegTvtpsh102mlrQypn2+EFkPIh1Y6KRPInv0ZYBwG0XD/Kgli6hBQbmp4cHkiZ2pnZYIZApnlYAySg3J4qw5oE2/" author="" url="" tags="UkM1U0lNUAMXfcenPoZxmM6Ii5ZHQCh/3n0/toqMY2FffVeR6SEtK+d9wQi5kc+xXXcDYwTCP04=" ctime="20161211200114" dir="1481479274i220o5mlqh" file="text.html" crypt="1"/>
+     <record id="1504977204nm4jwmccat" name="UkM1U0lNUAOcxf8ej0W0pI0d+Lz4uDbo0405DXoZjltWB+OVHDWjP4WgeRy9HJpKd1zpez/DxwtV5FHeVx0hUxh1CeKJ/WtmHkkYx/S6E22TtO5nFIF/pAudlgKs0ptuTOUC9yTEKHs=" author="" url="" tags="UkM1U0lNUAPZi+uYlzZyoX+0dk0BcG09dIau3WnqUa6KJ9oNK2iobX8bPuC9YHaioQYw5/RS5Ug//9V6DtvyAg==" ctime="20170909201324" dir="1504977204gky8x6jj5c" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="14823352457nvgonvpwv" name="Linux">
+   <node crypt="1" icon="" id="1481575037sfgtu9n4w5" name="UkM1U0lNUAMnkGNvse2fC2RXuqO0zDEMmoa8hBEC4ds9n99HGU2dNcWp/28c0ZOH">
     <recordtable>
-     <record id="14823353101xckrn8156" name="Как удалить репозиторий" author="" url="" tags="repo, apt" ctime="20161221174830" dir="14823353105b5kpfktlp" file="text.html"/>
-     <record id="14823357850iwu0osn7a" name="Ручная установка пакета" author="" url="" tags="dpkg, deb, apt" ctime="20161221175625" dir="1482335785940aorlalj" file="text.html"/>
-     <record id="14824342125akt9potv5" name="Автоматическое исправление опечаток" author="" url="" tags="cd" ctime="20161222211652" dir="1482434212oxi9hapeid" file="text.html"/>
-     <record id="1482434941sepc4kl02t" name="Разница между .bashrc и .bash_profile" author="" url="" tags="bash" ctime="20161222212901" dir="1482434941gsnydw354a" file="text.html"/>
-     <record id="1493236238bf425mxmo5" name="Типичное использование Cmake" author="" url="" tags="cmake" ctime="20170426225038" dir="1493236238ntu4q6m86p" file="text.html"/>
-     <record id="1494418733xkr8z2v00j" name="Как сбросить пароль root" author="" url="" tags="passwd, root, boot, loader" ctime="20170510151853" dir="149441873389ffz2sair" file="text.html"/>
-     <record id="15051412129kpykkbwx8" name="Enable normal interface names" author="" url="" tags="interface, ifconfig, ip" ctime="20170911174652" dir="1505141212r9sdzkj3sb" file="text.html"/>
-     <record id="1505141308ypc0lis3m9" name="Useful commands" author="" url="" tags="commands, linus, bash" ctime="20170911174828" dir="1505141308010vqyxqe6" file="text.html"/>
-     <record id="1505142040wnaxzrdkwp" name="IP configuration" author="" url="" tags="ip, ifconfig" ctime="20170911180040" dir="1505142040sa2zoqvzkg" file="text.html"/>
-     <record id="15052409789d7nkjgq1o" name="Change default booting OS" author="" url="" tags="boot, grub" ctime="20170912212938" dir="15052409789oazgr3ft3" file="text.html"/>
-     <record id="150541218880j8pee9u0" name="Customize bash command prompt" author="" url="" tags="bash, ps1, prompt" ctime="20170914210402" dir="1505412188av72xg8ace" file="text.html"/>
-     <record id="1505502075an5ofkar3h" name="Packet files and directories" author="" url="" tags="dpkg" ctime="20170915220115" dir="1505502075gslg9u3zfb" file="text.html"/>
+     <record id="1481576434a30od8dvj5" name="UkM1U0lNUAOe/iKdaX5ApgV6A6y4wBdfkIzkYK6Zozx5rcOeos5kbc1J1/WZr06xX3EJh9qqKnPJH9bb3GWdaQ==" author="" url="" tags="UkM1U0lNUAPFDI4zNQ/N404HjTnw4c18+bAEgXVs6KrwnqXLOMukB8UOjILPXRL+" ctime="20161212230034" dir="148157643445m24hebql" file="text.html" crypt="1"/>
     </recordtable>
-    <node crypt="" id="1505141095zucmbftcas" name="Commands">
+   </node>
+   <node crypt="1" icon="" id="14823352457nvgonvpwv" name="UkM1U0lNUANoEa5+x6/YK9YaDITOvTAHipi8KVv5SGIOIFx1OFRy68TrsXSOQqdJ">
+    <recordtable>
+     <record id="14823353101xckrn8156" name="UkM1U0lNUAPvPY6cYHtnnH0Ox8wRP6QK/Vo7wvKSG5xFcz/6eD7QzPdyiIkyI84dCWsshGtzARX2hCnllve0LTMTb3Eg4TFBKwKKEQMZx8TgZjbPerj0hQ==" author="" url="" tags="UkM1U0lNUAM6m3yAbe0Ep7Vd+gB9Pbd92Qu9C1AgqfH25KRARC3x8Pt8zeHb5HX5SLP6RIk2Frs=" ctime="20161221174830" dir="14823353105b5kpfktlp" file="text.html" crypt="1"/>
+     <record id="14823357850iwu0osn7a" name="UkM1U0lNUAOr/kEw7gQAwa71e+vv33yAZV2GWmeh+E8kXZG04w3djs+Jf2dbU3uAqo2kZS26hkOZrEOq3Tqx0hfJH8fYXXkEk4tQNyiDyoVrW6M2a0PLiw==" author="" url="" tags="UkM1U0lNUAMk9fIf3cLnbNW0EpLwpLM1hstcq1xy9sGwmyC9v9ZE1LN1+UbzJI1T9Az7/0UOGkY=" ctime="20161221175625" dir="1482335785940aorlalj" file="text.html" crypt="1"/>
+     <record id="14824342125akt9potv5" name="UkM1U0lNUAN7dP03eY6zSTeH4Ka6H/FiKG1Wgu2As84Dm79SX2Bx1V4Sn060aBYS38mQj7C1On9KVHBkfqqGgetBPZjMlyBPYcdjLhjkONc2J8b3XCOws1UQAMWY2awwXzb4XwR0mWZM+SlXM4X0lQ==" author="" url="" tags="UkM1U0lNUAO5no0X6NjL3PihIjq1rMPwBK0jZxeT6To02zmm8pPPGJDZS2x423hd" ctime="20161222211652" dir="1482434212oxi9hapeid" file="text.html" crypt="1"/>
+     <record id="1482434941sepc4kl02t" name="UkM1U0lNUAOfgMUtgFMorIn4bLpCc0qA8jJubjlXNLdzVTro5YJxKD5+y44dxIwFwHt2myIPYWlCf3sPEr73YGeu52O9iCAIMBPV0bNCtLx/J2F7QkOQBa/aeW/CoblG" author="" url="" tags="UkM1U0lNUAORLBx1mpCuvR+eU2hlwhf7ucNIH+ZYnzszzjvpjj68Z+reiZKwuW7U" ctime="20161222212901" dir="1482434941gsnydw354a" file="text.html" crypt="1"/>
+     <record id="1493236238bf425mxmo5" name="UkM1U0lNUAPYdZILJnQZKyKkQXGIL0RifzF/uOjHYb2vH0q1gF2pee9Apxw0wV7JfSizPR+nMyREhqKsUI5PBIRkJ4fplngZN6HZGbU1hNJrqlM0ZMMge0WkKRiMwLoL" author="" url="" tags="UkM1U0lNUAP6vEDKn7LwQwpK5YQPpZF00Xazkml8R2eQe2FAj9oE7SUGmJgv2hu2" ctime="20170426225038" dir="1493236238ntu4q6m86p" file="text.html" crypt="1"/>
+     <record id="1494418733xkr8z2v00j" name="UkM1U0lNUAMrGAIoOuXvo1sTmilt3pkoi2BBhH1S/2itDI2johVy+JfzHfbYHkeqngkaOGK5oNH60ldOFiaVn9EWAYHmRHvlxPDggjvGlMj1vpVMXHRuWA==" author="" url="" tags="UkM1U0lNUANqwxiuHWwf1DRsDbSofoDJVcsLykSrSGXd5vOW4aPT5098Xhz2CFpaX+ZYiOkEenDMl6LIa2B/kA0aBPcogaX1" ctime="20170510151853" dir="149441873389ffz2sair" file="text.html" crypt="1"/>
+     <record id="15051412129kpykkbwx8" name="UkM1U0lNUAPGl8puPU+LsbWwq6VEQXG+nsG8hR8qQ+3FOupDLi5OE5k4/HDx5d7LibS0dMZypwvwlHLhmg+Owf+Ro9Tvr0E+" author="" url="" tags="UkM1U0lNUANNw9Q1g7V9/MhrwHHQOOn43PtEsKd3aIG/3UugucOIDVYu/GVFGSyjJqFb580xIExhKTQ4rHGtaw==" ctime="20170911174652" dir="1505141212r9sdzkj3sb" file="text.html" crypt="1"/>
+     <record id="1505141308ypc0lis3m9" name="UkM1U0lNUAM5cq8xLxpXlZGaeIRtv130gftqG/ijZrAkc5gVuR2Ip165kPyVbaxG+84F35FKJpI=" author="" url="" tags="UkM1U0lNUANBQffpRkEKtoU5ZIXbeVAKTK0VuGUgiyL5nYl6grK3/UtXSY1G82aeOJrY8duXuUApgLYcXiVLXw==" ctime="20170911174828" dir="1505141308010vqyxqe6" file="text.html" crypt="1"/>
+     <record id="1505142040wnaxzrdkwp" name="UkM1U0lNUAM6FY/unKUAffiJ0JF0uG50bNGgTF3cqN3sPS4iIM1olvTiNrO/W/2F0eYiB4sz0Gw=" author="" url="" tags="UkM1U0lNUAPTsgQthHpaYLRYSZBnt7k6ZtnJQ4TWelpUZ9SMsO5I0dVYg6PHIiX9sgDtAZ/oKBI=" ctime="20170911180040" dir="1505142040sa2zoqvzkg" file="text.html" crypt="1"/>
+     <record id="15052409789d7nkjgq1o" name="UkM1U0lNUAMHgl2Sk+JxAHly10kYYaSBYa/BrELnesqdB1ERwXcfhLd1rDCVAS4IggUnqitXIOwBm6umb197uvWGPMTkQej8" author="" url="" tags="UkM1U0lNUAMRfLMZdK9FHYocuQbFDq9ahD5eC0IQ5ORwsQiOsNQUSZj089XxjpIhKfXYxhhPxgQ=" ctime="20170912212938" dir="15052409789oazgr3ft3" file="text.html" crypt="1"/>
+     <record id="150541218880j8pee9u0" name="UkM1U0lNUAMpYElUj7ne9n0rSeQtvJQ5f9S7Tsn//1LYdg9jwrX3Pnv3ZqkcZ4VM9OSMr0MOQExt726VtftF8ybBMAY3wv5S" author="" url="" tags="UkM1U0lNUAMVwUk7M4+gMIn25tCEfYlqRLesWcx5v1AsYJ/+YJiq1qZsJ4GRj2vYOLIL/G3SNsb3u/rb2V1G1w==" ctime="20170914210402" dir="1505412188av72xg8ace" file="text.html" crypt="1"/>
+     <record id="1505502075an5ofkar3h" name="UkM1U0lNUAM5xpgjKRaI8Xmypk05bYGVXROOC2l/MaeoD+8MG/hc6YiOW7kykmER1hLeO+diFYehY5ePEk7n32p9e7yny+D3" author="" url="" tags="UkM1U0lNUAPSjkPWvw4vDtauZ8UwtYbnzTZX+cbno9hHJ/LmlqNCg00wfEiUJZeD" ctime="20170915220115" dir="1505502075gslg9u3zfb" file="text.html" crypt="1"/>
+    </recordtable>
+    <node crypt="1" icon="" id="1505141095zucmbftcas" name="UkM1U0lNUAOZzYjBj6n6lWJNO3MAmSaFyn3pJ8WY6x8PJFH+Puy2ebp5SWhpBd3G">
      <recordtable>
-      <record id="1482516712ritgnhtf21" name="Команда find" author="" url="" tags="find" ctime="20170911174502" dir="1482516712vly190ers0" file="text.html"/>
-      <record id="1482518645ij5qm4dqzb" name="Команда xargs" author="" url="" tags="xargs" ctime="20170911174504" dir="14825186456bcfrgx1bz" file="text.html"/>
-      <record id="1494499503uug2lq2u17" name="Информация о портах (команда netstat)" author="" url="" tags="netstat, ports, udp, tcp, network" ctime="20170911174508" dir="1494499503vs15cwzsym" file="text.html"/>
+      <record id="1482516712ritgnhtf21" name="UkM1U0lNUANaB8FC5Pxv05F87CMRPneKxpKyh7QthW9g6lX0uF4mhXyHMs+DbFYvoWAh3O0qgqrl70XZnxKCyg==" author="" url="" tags="UkM1U0lNUANIrDicx+13F8chWzdLd0GnX9MtK/rh4CtIcBJzNnhQbE9ecyQ//bod" ctime="20170911174502" dir="1482516712vly190ers0" file="text.html" crypt="1"/>
+      <record id="1482518645ij5qm4dqzb" name="UkM1U0lNUAMHrQYN967ZU8kxLeFB4G2cHWUT30Yd0E44+cJK0BaVQBDKkTeNIo+KA0Qex3EfYVuiGl7rC2DlEw==" author="" url="" tags="UkM1U0lNUANue1mfX9QHrXUK2UUCPTXi62F24jFDQo6F6yoFnwcFEP1zQx7472+8" ctime="20170911174504" dir="14825186456bcfrgx1bz" file="text.html" crypt="1"/>
+      <record id="1494499503uug2lq2u17" name="UkM1U0lNUAMrLezNfG/IlqDap/fFpCFWQ4YTNu2mXg2aB80SRrMOAW5OvOKSci6JAg4xO2XXvwBhrsiQdvnNvs9AsJrSB02ZLjIlq3MINaXyxKwqZp6V1HpcISWzOGL367VEB6kC2zk=" author="" url="" tags="UkM1U0lNUAMeyUlyaeJKzEY4sT7rtKSRMcrPN0tR792q2zr/GsNtsdafhJR+RHLpQH93QKIm+rvC4e3uyIpmKxWF9p1heZh5ScCRa8+quLQ=" ctime="20170911174508" dir="1494499503vs15cwzsym" file="text.html" crypt="1"/>
      </recordtable>
     </node>
-    <node crypt="" id="1505410430evoubik08f" name="Ubuntu">
+    <node crypt="1" icon="" id="1505410430evoubik08f" name="UkM1U0lNUAPda8x7LkIr8isfMM4fdLeOsgPMO0y+NiDpJaB9/v6oPS5okvusuB1/">
      <recordtable>
-      <record id="1505410462agmtg78vc5" name="Installation guide" author="" url="" tags="guide, programs, install" ctime="20170914203422" dir="1505410462c06guxyvxm" file="text.html"/>
-      <record id="1505415110140o20qa2n" name="Manage startup programs" author="" url="" tags="startup, init" ctime="20170914215150" dir="1505415110wqx3srtugs" file="text.html"/>
-      <record id="1505416607qc4jny46m0" name="Manage programs list" author="" url="" tags="alacarte, list, programs" ctime="20170914221647" dir="1505416607fnts0ffnee" file="text.html"/>
-      <record id="1505800573z3k9plaxi3" name="Dual boot time issue" author="" url="" tags="boot, time" ctime="20170919085613" dir="1505800573wfleyq5k1d" file="text.html"/>
-      <record id="1505509076047tlfj283" name="Shortcuts" author="" url="" tags="ubuntu, shortcuts, hotkeys" ctime="20170915235756" dir="1505509076p5msf85rd7" file="text.html"/>
-     </recordtable>
-    </node>
-   </node>
-   <node crypt="" id="1482664754q7xkh5ca6k" name="C++">
-    <recordtable>
-     <record id="1482669130xwwsb1ofz9" name="pragma pack" author="" url="" tags="pragma, pack, alignment" ctime="20161225143210" dir="1482669130pkzmlg7d6d" file="text.html"/>
-     <record id="1491597478k6kw936z6u" name="getline" author="" url="" tags="getline, string" ctime="20170407233758" dir="1491597478zyd0yccpxo" file="text.html"/>
-     <record id="1505630188wtsllufug1" name="c++ shell" author="" url="http://cpp.sh/" tags="shell, c++, repl" ctime="20170917093628" dir="1505630188fxintlf3i6" file="text.html"/>
-    </recordtable>
-   </node>
-   <node crypt="" id="1490707858ge6dqk3lb5" name="Windows">
-    <recordtable>
-     <record id="1490708028la81zbh3p8" name="Как убить процесс" author="" url="" tags="kill" ctime="20170328163348" dir="1490708028w5nojv0gzf" file="text.html"/>
-     <record id="1500787653opbxrhgoi2" name="Проверка состояния батареи" author="" url="" tags="battery, energy" ctime="20170723082733" dir="1500787653c6h82r0sxk" file="text.html"/>
-     <record id="1502698222qqj08kyh59" name="Управление гибернацией" author="" url="" tags="hibernation" ctime="20170814111022" dir="1502698222gs9tdompp5" file="text.html"/>
-     <record id="1504900107ayq4icayvf" name="Проверка жесткого диска" author="" url="" tags="hdd, check" ctime="20170908224827" dir="1504900107e0wgrfgp0d" file="text.html"/>
-     <record id="1505917588xybbxeizgj" name="Run batch script as administrator" author="" url="" tags="admin, root, batch" ctime="20170920172628" dir="1505917588yz3s14w1ss" file="text.html"/>
-     <record id="1508416280fjw8wqg1qp" name="Отключение файла подкачки" author="" url="" tags="pagefile.sys, swap" ctime="20171019153120" dir="1508416280n076fqdsnf" file="text.html"/>
-     <record id="1509726663kvsq4e8zdn" name="Folder default view" author="" url="" tags="view, folder, default" ctime="20171103183103" dir="1509726663udq5di60uz" file="text.html"/>
-     <record id="15101183720otkpsbpw1" name="Full screen mstsc" author="" url="" tags="full, mstsc, remote" ctime="20171108071932" dir="1510118372n4xwarovhn" file="text.html"/>
-    </recordtable>
-    <node crypt="" id="1493706716m8f6aorma9" name="Visual Studio">
-     <recordtable>
-      <record id="1490939704soo7ad1ivq" name="Навигация по коду в дебагере Visual Studio" author="" url="" tags="debug, skip, visual studio" ctime="20170502093211" dir="1490939704qlg4mbc1jk" file="text.html"/>
-      <record id="1491510672slqef50ck0" name="Вызов функций во время дебага в VisualStudio" author="" url="" tags="visual studio, debug, call" ctime="20170502093220" dir="1491510672lcaadr6xyj" file="text.html"/>
-      <record id="1493707869flbru3xioq" name="Debug shortcuts" author="" url="" tags="shortcuts, visual studio" ctime="20170502095109" dir="1493707869g32nkre8e5" file="text.html"/>
-      <record id="1493707901zzfeigtq0o" name="Navigation shortcuts" author="" url="" tags="navigation, shortcuts, visual studio" ctime="20170502095141" dir="1493707901chf2478ful" file="text.html"/>
-      <record id="1493709228rwmmkno7bg" name="Editing shortcuts" author="" url="" tags="edit, shortcuts, visual studio" ctime="20170502101348" dir="1493709228pg768z7n1n" file="text.html"/>
-      <record id="1494610830r5st3r3cm2" name="Misk shortcuts" author="" url="" tags="shortcuts, visual studio" ctime="20170512204030" dir="1494610830sbmvg8dhgb" file="text.html"/>
-      <record id="1500628404a3yqkptnmk" name="Bookmarks" author="" url="" tags="visual studio, bookmark" ctime="20170721121324" dir="1500628404hpnl94gi79" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="14946146322r2yfkxt6b" name="Bat-скрипты"/>
-    <node crypt="" id="1500967934oyi6a3rwkf" name="Programs">
-     <recordtable>
-      <record id="15009681265f8os5pvtk" name="AutoHotkey" author="" url="" tags="hotkey, shortcut, auto" ctime="20170725103526" dir="1500968126f4b66vy9to" file="text.html"/>
-      <record id="150174746479u1tbpyap" name="Resource Hacker" author="" url="" tags="ico, image, icon, exe" ctime="20170803110424" dir="1501747464tqrkx6qt6y" file="text.html"/>
-     </recordtable>
-    </node>
-    <node crypt="" id="1504888667301qfqvxpg" name="VMWare">
-     <recordtable>
-      <record id="15048919807n92ptj0ei" name="Как подключить к виртуальной машине несколько мониторов " author="" url="" tags="vm, vmware, monitor" ctime="20170908203300" dir="1504891980bm83go2qk6" file="text.html"/>
-      <record id="1505140925ha8i8paw8b" name="Shared folder in Linux without X" author="" url="" tags="shared folder" ctime="20170911174205" dir="1505140925phqsy2d03y" file="text.html"/>
+      <record id="1505410462agmtg78vc5" name="UkM1U0lNUANuPfWR5hzJAc4BBK7Vx3RIGuvbeEo4XwF6Ud3dACACzfLUfD2s2gUL16ah7x38rRx8Gidkw8ERgg==" author="" url="" tags="UkM1U0lNUAMdyPGr0JgGFwQMJ6ftVKDbjnpgxz+wWLXz/hcMVU21o+2G19a/MeWbsEsxybQEwTN2NZVq99Wglg==" ctime="20170914203422" dir="1505410462c06guxyvxm" file="text.html" crypt="1"/>
+      <record id="1505415110140o20qa2n" name="UkM1U0lNUAMjks/ry4GUKKcyTpjwqRBMeqtt5sdyKe49auoXNEOfEvS8Rd0+qnsulnFsJMM5UqwuHbichqdeHQ==" author="" url="" tags="UkM1U0lNUAON2Vdnjkj+3q3s1aS4spCMBkP04BZQYf7dZZxvcfQVo29GJTdMMF0/vSjMhmOf2TU=" ctime="20170914215150" dir="1505415110wqx3srtugs" file="text.html" crypt="1"/>
+      <record id="1505416607qc4jny46m0" name="UkM1U0lNUAPjc9qTEUxn3B2ygM1FjkMaNE46sf7VKWuQta/metwu/ufNNgdX/5k8xc2TKfnTYasI5AtOIjqcfw==" author="" url="" tags="UkM1U0lNUAMnj44XWa1VouAommuH/B6RJ9gZix8owidAgH2gfhJiEut0Z6E5CTyQH9Fwmub8hUn/jKmk262cJQ==" ctime="20170914221647" dir="1505416607fnts0ffnee" file="text.html" crypt="1"/>
+      <record id="1505800573z3k9plaxi3" name="UkM1U0lNUAM7Wm/JHWVzitCWg99rwC0kyaOHv0IomCu14USd/aP19qZlm54eTAifUz5G5GZUY5nxDLtANJrR6w==" author="" url="" tags="UkM1U0lNUAM8aMb5rhX4+C4rMuoGyHqo9vYl0md7exHtrjQ6NA58GVRTiRUUEdUg4sDckit0o/I=" ctime="20170919085613" dir="1505800573wfleyq5k1d" file="text.html" crypt="1"/>
+      <record id="1505509076047tlfj283" name="UkM1U0lNUAMBkVbcPuta1biRim83ng3j5OC1ja0PxfdluwN+lJ9nJ1a2FrVot7omlrLQ0ERsz30=" author="" url="" tags="UkM1U0lNUAPHK9kxMYVA1v6s41z2x6I5TrQsguK5zS4v0pNrbkrzHvtb5opfeef7d6jDF/OZ7mO4O6cqMABJKzhYIeuzNVwx" ctime="20170915235756" dir="1505509076p5msf85rd7" file="text.html" crypt="1"/>
      </recordtable>
     </node>
    </node>
-   <node crypt="" id="15017468404e75mgh31s" name="Trueconf">
+   <node crypt="1" icon="" id="1482664754q7xkh5ca6k" name="UkM1U0lNUANNtcQyyFXu1EmxmLkvav+yMja1nbmbQotewL28sRpzXMONpvTdSIJU">
     <recordtable>
-     <record id="1501746878ccv6ifmf2b" name="Обработка facility правильным парсером" author="" url="" tags="facility, h460" ctime="20170803105438" dir="1501746878uwvwkvcu9n" file="text.html"/>
-     <record id="1502349367sklxr7kkxj" name="H460 bugs" author="" url="" tags="" ctime="20170810121607" dir="1502349367mt0hxuv6tj" file="text.html"/>
-     <record id="1508428780zqr73gnk0k" name="Plans" author="" url="" tags="" ctime="20171019185940" dir="1508428780lqqiacft00" file="text.html"/>
-     <record id="1509628604uutohi1t67" name="Всякое" author="" url="" tags="" ctime="20171102151644" dir="150962860472ny86dri0" file="text.html"/>
+     <record id="1482669130xwwsb1ofz9" name="UkM1U0lNUAOw1iXh5aSwoUFe0wCAlFbfBubUOkAZ9GYyeUfAt6aYTx3tiTvVw69IxFrkCNRoKfY=" author="" url="" tags="UkM1U0lNUAPnjpDXj2+lsMDEVVr1JrUjTxE3vBR3azGnmwb3J/bE6fPFJDu6DHTrDSV/b52+dIhBjGLJvBOOcw==" ctime="20161225143210" dir="1482669130pkzmlg7d6d" file="text.html" crypt="1"/>
+     <record id="1491597478k6kw936z6u" name="UkM1U0lNUAP9Zydf/zV/Uo0kUD1rPhIekRuCZ/ZvFMAhpPfeTxwUUg3FSav1mJi7" author="" url="" tags="UkM1U0lNUAMVOlEnP1tOTXN38jYqq3/sL/A2/qVv+0L89R4kqIPmOTbR45eudEG1ab7o9UrzLPA=" ctime="20170407233758" dir="1491597478zyd0yccpxo" file="text.html" crypt="1"/>
+     <record id="1505630188wtsllufug1" name="UkM1U0lNUAPT0/QhHwdVRqv8BEgmVMXbaAjbNAf4lkN/qWG9tajXIMSsNfRpUKYtVE93aaMJVqE=" author="" url="UkM1U0lNUAMtcmX0AtPi432A3r4PV8AcOJgFhquZGYWM7ggOs2WRQDj2iFJBXSDltivp+hJRuVI=" tags="UkM1U0lNUAM3186Ttq6Pu7cKDFyX+GDrh30bcDbl1dPWjqh+tyryQhgZw6PSWOqHWhjKCTqy8Mw=" ctime="20170917093628" dir="1505630188fxintlf3i6" file="text.html" crypt="1"/>
     </recordtable>
-    <node crypt="" id="150521454618u5vw9req" name="H460">
+   </node>
+   <node crypt="1" icon="" id="1490707858ge6dqk3lb5" name="UkM1U0lNUAMok3OeKwrKoberlhIGfPbmlxCWzN++wZRQ1AIfNuq5xeZs2DFuHRUf">
+    <recordtable>
+     <record id="1490708028la81zbh3p8" name="UkM1U0lNUANa+nZbTYjQfRaNwoHrM0wIX5w5XwlP54k4N1mLIoFXg6tl2LliLm0ZucB26eH6p+bfg/5MzXRtx9Zk+8+ci8a9" author="" url="" tags="UkM1U0lNUAOBiT4o/LQem4qOulWiVb1rtqlsTTN4835xsqhIfFpkUxspD2Wyvz3a" ctime="20170328163348" dir="1490708028w5nojv0gzf" file="text.html" crypt="1"/>
+     <record id="1500787653opbxrhgoi2" name="UkM1U0lNUAP77TX0JbJbXRWW91wcH71q8Ml2QWvCWZ/ZkSKQl1BdNB/QqkZQ3VhKAEaz/OHAYv0GVJrTJH19uaM74zQXSUYD9kKm5hy0o+ILnC9MIfaD2fQ1A3CQvsnM" author="" url="" tags="UkM1U0lNUAMstLVXNT5phbznCkXC/Uvi8bpSkQltkGRoh3W85HBZXuAE7/E/qD5QhssyVAnPdwI=" ctime="20170723082733" dir="1500787653c6h82r0sxk" file="text.html" crypt="1"/>
+     <record id="1502698222qqj08kyh59" name="UkM1U0lNUAMQPJA7tIo30m8WecJYZ5blOPBQx5Os+eaJKKglO6IFZ65prCz2z5kf+NPLPP2MvLKxE0AL0hcAaCzUtPg0ow15tZsuBnUJZdwYWvKvRjyk7A==" author="" url="" tags="UkM1U0lNUAN4rS+5nVglNWSS8GbuC5wDu6iWgGLKuJ4lY73Q+n9XIvwv9lj/gvDUnaISO7bPUu8=" ctime="20170814111022" dir="1502698222gs9tdompp5" file="text.html" crypt="1"/>
+     <record id="1504900107ayq4icayvf" name="UkM1U0lNUAPOY2pxuLtf32wpFDmgdxlpBNQoL2NxLeMIEQT8Q3Vzt4DYGW5mPx4mUTqHzlouQJmAPZQb1JdPK42Ic/ECyc6cX/EYhkJXD9Q58yYAfW3N2A==" author="" url="" tags="UkM1U0lNUANION4ADXa56rZM3qEVXlS9h3yjsJ+nlmh/U8RDi1Ny4U68N1KApkAw/HCvq3faqHA=" ctime="20170908224827" dir="1504900107e0wgrfgp0d" file="text.html" crypt="1"/>
+     <record id="1505917588xybbxeizgj" name="UkM1U0lNUAPIjLrycilPMG7R5j8IXmR+Rd0iumNu1g+phwG3cYl4WkEyyEiB1LLBgIsvUmMBy1asUiig50y/go42QQRAyufB9qC6x4TML4s=" author="" url="" tags="UkM1U0lNUAPMCbV5B0OMp+npV5/FCxxcX/JPKGcb/hbkF1cMiij8RxGly39cRXf7lLA6Z4R7jFrwbOsDaNF4hg==" ctime="20170920172628" dir="1505917588yz3s14w1ss" file="text.html" crypt="1"/>
+     <record id="1508416280fjw8wqg1qp" name="UkM1U0lNUANNc3EVec7/0OsUusemm5UfVx7ZvzJbf9yyP6yjy+GVrGdWJDTOAU6NLHJqL9oEofyt27iEtM8n3eA09js3ParOq2pGhylH2lXLzkmRBI1EFg==" author="" url="" tags="UkM1U0lNUAPZxwoN1H4z6dBqkYumCANCuHq/sGBnnw2gKt0ZEEfLlA9Xl0veRiciEd6IrnYN+YCZ1lZ4bXzMOg==" ctime="20171019153120" dir="1508416280n076fqdsnf" file="text.html" crypt="1"/>
+     <record id="1509726663kvsq4e8zdn" name="UkM1U0lNUAMGxZSznjnFu3aUerZP+3WUD9dRbH+rQeKq5aNwm3p4eJ6zNichBkUMQ87XevpmQkmyHlTl73SH8g==" author="" url="" tags="UkM1U0lNUAM73J5YWT9/1EbCzHk1pFLTCwR5o/k69I9TJPR/NJgd+CIYnc5Db//sX1uDnDA3D04CecTc07bhlg==" ctime="20171103183103" dir="1509726663udq5di60uz" file="text.html" crypt="1"/>
+     <record id="15101183720otkpsbpw1" name="UkM1U0lNUANhJMZTwtxIChd7LpKSRBsL36kM5K45IuqOxJcQGaGOjRNHG39qT6G3BgUvp2R5j+aufFKDrTXNsg==" author="" url="" tags="UkM1U0lNUAMPddbrNC1wDwUjtDf5+tB+fcYdsi2ERIAAtckmMiDV6EXgGZYosPgB+S/SaPsxMfW4D3iAKOkDfw==" ctime="20171108071932" dir="1510118372n4xwarovhn" file="text.html" crypt="1"/>
+    </recordtable>
+    <node crypt="1" icon="" id="1493706716m8f6aorma9" name="UkM1U0lNUANV60v2B00Bg0uV3lzPM9+d3v6NeJMJ8uzK6+dl6DuqRLKhVFPp7kJNnaKO4eR3dSs=">
      <recordtable>
-      <record id="1505214563vagck7i2lm" name="Yealink calls" author="" url="" tags="" ctime="20170912140923" dir="150521456377jpu7szf2" file="text.html"/>
+      <record id="1490939704soo7ad1ivq" name="UkM1U0lNUANMH+AdVo0vpa5P0VgrTDBlnKTOb1qeMCq66W76FwDJo15Ka/hGxlFj2hPCNwaZFwDIMAbJG8ZiZn+/2Hh8m2Jf2iuafkVChtwizFZXExVAPEqLOt5ONc5ruH58mHuB9AWf3EfDkBPnOg==" author="" url="" tags="UkM1U0lNUAOtntylsYSZYjzlds5hQL9+yZpUkKkLr23vs0NQpa4kwGwnPuJIoQpZMAEnJUPonq2wBLGrKLsHCitJKZMTLnL4" ctime="20170502093211" dir="1490939704qlg4mbc1jk" file="text.html" crypt="1"/>
+      <record id="1491510672slqef50ck0" name="UkM1U0lNUAMLMy0cKSeysi/4kFi1E6ayCZPkgH9e9AhJD4SxyDWImLz+9KQW9AwCFx/V4CB5qHEST70HaeKE0W3a4mN1EuokbVpDZUKQzzMT7HhTwpKFOM/mfRPQP3BlJIK7GSYZI7soYO/tUqWYfg==" author="" url="" tags="UkM1U0lNUAOockzHMJ/DsMxKw797QDMT1fll/t/mnlwGiN+ZXEL25pWeHjkyB1W4wbk5iM6lHQUkmHbtaRQMNr+O1Fry5NNj" ctime="20170502093220" dir="1491510672lcaadr6xyj" file="text.html" crypt="1"/>
+      <record id="1493707869flbru3xioq" name="UkM1U0lNUAOPPnZ1OpHG7CVVnyLnNlI9dQZfH9qqvwOPSoml/4OtTPcj8cLpKHa9p39jTRQ1DY8=" author="" url="" tags="UkM1U0lNUAMTVy5xQjGx+tZHk4+uKHbhlLnsXcUl+IORfJH7sfg094quj/lNKYxG2g1PZ0KxhK4bJPQS/PKRAA==" ctime="20170502095109" dir="1493707869g32nkre8e5" file="text.html" crypt="1"/>
+      <record id="1493707901zzfeigtq0o" name="UkM1U0lNUAP0oTx5w1AcTserLKETk9/x5R2ZZ/Q/ZI1Yv6rRejGCEo2rMcg8FK+oP5TNbtZ2Ypa+SX69D1taDA==" author="" url="" tags="UkM1U0lNUAOBaGJWA8u7B9ogJZUe2Qo0b7g13XzCQl4FaDZJgPURw9txCZC5wELqt1ETx8rxn/hmAUkeJiq35l/1wn78srxqXAcZX+fj0/c=" ctime="20170502095141" dir="1493707901chf2478ful" file="text.html" crypt="1"/>
+      <record id="1493709228rwmmkno7bg" name="UkM1U0lNUAP3qfHstZ/CotoyT3vplbWr128acTtCmmKEw9sTXPI5YlatRLmBCN05zQoAZO9neum82DRn7P+DHQ==" author="" url="" tags="UkM1U0lNUAMXh+89s1+gxSogThJHlONmKdoguKVbcXtBd7fcBAuqRhy1Xb+ZwMck01OJkAW/kUg8MU5YZNo2za2yYAQbuAmr" ctime="20170502101348" dir="1493709228pg768z7n1n" file="text.html" crypt="1"/>
+      <record id="1494610830r5st3r3cm2" name="UkM1U0lNUAMdq797zfcIVJvB8a72WKZl1BpDwAxJHPu9CIpq/lQeM1VAtUXV705wQu2saSq1KtM=" author="" url="" tags="UkM1U0lNUAM6NKjQvf2aWIw3pwPzvpld/qQNS5WTAp0wA2K7/I9grw+SVS2YvaPIuD+R/1UV0ylOYm7txNRljQ==" ctime="20170512204030" dir="1494610830sbmvg8dhgb" file="text.html" crypt="1"/>
+      <record id="1500628404a3yqkptnmk" name="UkM1U0lNUAMakUq22qg/agXIQHHQQD7V0/5W9N9vPVy6G+Bw9XEHDeoNmJb2KicyIedOk/aZmrw=" author="" url="" tags="UkM1U0lNUAPkm0SN17ZTgeIiQyZeE9ED5nwHJcxJcfpth6KJSTLmWYMT1BIGCncgO+l8b1icqUIL1FYqKvkIRw==" ctime="20170721121324" dir="1500628404hpnl94gi79" file="text.html" crypt="1"/>
      </recordtable>
     </node>
-    <node crypt="" id="1505223453nf7oy1mjdo" name="LDAP avatars">
+    <node crypt="1" icon="" id="14946146322r2yfkxt6b" name="UkM1U0lNUAPBFc9rbVZ9UVXjOFw0giJrog4mk4ySokGqGEF/gidw/UxZ9hgOXi6cjrhwIk45jgUw/fEs9gvUvw=="/>
+    <node crypt="1" icon="" id="1500967934oyi6a3rwkf" name="UkM1U0lNUAMnp651PIAfbrO9tylELTKZkVqptsJXkggdZJK7CcnsbVa03IBbbIIj">
      <recordtable>
-      <record id="1505223643ac4j9u4nkd" name="Open questions" author="" url="" tags="" ctime="20170912164043" dir="1505223643helnzru7my" file="text.html"/>
+      <record id="15009681265f8os5pvtk" name="UkM1U0lNUAPQVrAOIByBcAzfLM+BFqQPpkn2PHrPugqIsLnf0MtEQuCWVvRVLc6udGQJ68uwFa8=" author="" url="" tags="UkM1U0lNUAO826WEIM+rEGuQ2aMWCiSZyfvTnNzfvFeEyhUjJX4/FT02lUgC5x7uS8jCN1MRdcLrzDCcKEjT8Q==" ctime="20170725103526" dir="1500968126f4b66vy9to" file="text.html" crypt="1"/>
+      <record id="150174746479u1tbpyap" name="UkM1U0lNUANILrtFTLmXeMflWgBdeR+WOqixlmO1p4un5v+nRGqia3G8gNM6e4Hq+7hGXHqtons=" author="" url="" tags="UkM1U0lNUAPy2S5COHNg8kYR7Z9hkNDSx68CxXilkvgRe2YZlc6D1bZ/ClmGS87O9tBSC0w+J+FM8gSeor1Upg==" ctime="20170803110424" dir="1501747464tqrkx6qt6y" file="text.html" crypt="1"/>
      </recordtable>
     </node>
-    <node crypt="" id="1505979091tefg5mcr1u" name="FileTransfer">
+    <node crypt="1" icon="" id="1504888667301qfqvxpg" name="UkM1U0lNUAOWJHtjD1RXxuRgdaiumbGvlewzrYKxJ7VQD0w+YpdZk/z2q7wqpLA9">
      <recordtable>
-      <record id="15059791276ftrd11u3g" name="41427" author="" url="" tags="" ctime="20170921103207" dir="1505979127o6x0k96cg6" file="text.html"/>
-      <record id="1506315177da1etngksj" name="41488" author="" url="" tags="" ctime="20170925075257" dir="15063151779ihnd60pxk" file="text.html"/>
-      <record id="1509984804hl0i97e0nd" name="42426" author="" url="" tags="" ctime="20171106181324" dir="15099848047m97ioay1m" file="text.html"/>
+      <record id="15048919807n92ptj0ei" name="UkM1U0lNUAMbP5OISN6KaEg2dQCJhDdiQOufvsSKrbUOAjzQa8oTAffsD0xhGsriCk6viubPE2w8f93MoPCz/GcNt8P+QBGl/IZBulhKxiiO59Xl03I/M66OIBavvTfwVPnGjwNLPojMpLSdXlxEuY9a9x46aFSuTUL7wcI2C8mE8zztPJ2pycQmE6ajZFH33DhSrOnVtfY=" author="" url="" tags="UkM1U0lNUAP7LjQwQ2eWJjXqcSAu+Dvix5ekh58pZ03yxFzr37Qo0qLc0C8sRLaRTjXp0gy/giSm/AqcZBlmbw==" ctime="20170908203300" dir="1504891980bm83go2qk6" file="text.html" crypt="1"/>
+      <record id="1505140925ha8i8paw8b" name="UkM1U0lNUAMZmWYESY4s/G1uzA3rEdt0YclngeyzWcCViiawv/l9sgckBeG6FiWz89XUYAp8K7dj3jtSToMJH0TdN/6Vlz0c" author="" url="" tags="UkM1U0lNUANPX1naN/XqaNR7j55qZFuQqu+GLkfOfVU6wKerdCwNC8aNNXL7XwYw6A3hnmxA7+s=" ctime="20170911174205" dir="1505140925phqsy2d03y" file="text.html" crypt="1"/>
      </recordtable>
     </node>
    </node>
-   <node crypt="" id="15023026130tmwdxiirl" name="Software">
+   <node crypt="1" icon="" id="15017468404e75mgh31s" name="UkM1U0lNUAMv/NomgOTOf1eQh8RCWBOZ4ItCE4rWchzD6FX7xqdvlk8SdNHXSPqo">
     <recordtable>
-     <record id="150230269819yr706ot9" name="FarManager" author="" url="" tags="far" ctime="20170809231818" dir="15023026987tdduv2bvc" file="text.html"/>
-     <record id="15023027539ofk52neqd" name="TotalCommander" author="" url="" tags="total commander" ctime="20170809231913" dir="1502302753w6i317ltez" file="text.html"/>
-     <record id="15023028517s2tow34ze" name="AutoHotKey" author="" url="" tags="autohotkey, hotkey" ctime="20170809232051" dir="15023028513cfeiguopc" file="text.html"/>
-     <record id="1502370390g9rdt4897b" name="Visual Assistant" author="" url="" tags="" ctime="20170810180630" dir="15023703901k8myecap5" file="text.html"/>
+     <record id="1501746878ccv6ifmf2b" name="UkM1U0lNUAPrt8sU3QPB5mSxlCcvkHgf4cnlYcB9zcOlKeIKl4rAFJK3At4rkSlWqPkQNs6EHXXC7eQJ/4OfMzIz8wvqPwOGcJKy7bFCEMwtyYJbzZ9z4wTMmkvwrHoDVyGPi9RmMkcS73Ps6xulkg==" author="" url="" tags="UkM1U0lNUAO9P4rnA0kUionErr7Ge52wzbUfLLFGD/5sS2MDJAjksNQXPKwWf1Z6Iblz7nioU5c=" ctime="20170803105438" dir="1501746878uwvwkvcu9n" file="text.html" crypt="1"/>
+     <record id="1502349367sklxr7kkxj" name="UkM1U0lNUAMz+tE29tn6qlhdgWFVoKvov5oB1DRV4mEx2oWZytD5jzGFkFP58MuDVPRdq3LlTTQ=" author="" url="" tags="" ctime="20170810121607" dir="1502349367mt0hxuv6tj" file="text.html" crypt="1"/>
+     <record id="1508428780zqr73gnk0k" name="UkM1U0lNUAPEBDohgRRzfa36AtvLGG4YT9Pqs853IrHGi8FZKUFPMQH81LZNnxWF" author="" url="" tags="" ctime="20171019185940" dir="1508428780lqqiacft00" file="text.html" crypt="1"/>
+     <record id="1509628604uutohi1t67" name="UkM1U0lNUAMuoeCOuE4+hScaxHK2bkpRpdhFr/3dNRXPnwTtS2CR0rGsc29Sb2kpQIRIlJYtlFA=" author="" url="" tags="" ctime="20171102151644" dir="150962860472ny86dri0" file="text.html" crypt="1"/>
+    </recordtable>
+    <node crypt="1" icon="" id="150521454618u5vw9req" name="UkM1U0lNUAMq1oeD1cJBISA8jInrH8mcbreQBDZnWWMG0MPxltwu9EuiU8kzUPVO">
+     <recordtable>
+      <record id="1505214563vagck7i2lm" name="UkM1U0lNUAMmvssZ/FvUmNzBQAa/65DJgwaidDWHSosAcmT/HzydEmLcOkoSLV2LH/wRQ0G4dLw=" author="" url="" tags="" ctime="20170912140923" dir="150521456377jpu7szf2" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="1505223453nf7oy1mjdo" name="UkM1U0lNUAONkkSfKPTNO2lxJuFDjDYHFZ1GIcfdmZjKXisEIZT97mIVH5/JNwSGoK/0LnjCslI=">
+     <recordtable>
+      <record id="1505223643ac4j9u4nkd" name="UkM1U0lNUAPauuO7Kx/mV+qiEX/kGfSBhfBPokFfdBztkVXeoMUu/KuI3bAKADIZE5DCDa4qZqY=" author="" url="" tags="" ctime="20170912164043" dir="1505223643helnzru7my" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+    <node crypt="1" icon="" id="1505979091tefg5mcr1u" name="UkM1U0lNUAORQWxobCKsO6AO8q6r5yGYDLNHiPuWkDuXEPhrp1E+zTh1PCUcBAekFC/gaEbk9lk=">
+     <recordtable>
+      <record id="15059791276ftrd11u3g" name="UkM1U0lNUAOlzaZa9LepUMH170B9/fjgpSCzehUwmsCrhqBzPqd/NrO4FV5Khi2+" author="" url="" tags="" ctime="20170921103207" dir="1505979127o6x0k96cg6" file="text.html" crypt="1"/>
+      <record id="1506315177da1etngksj" name="UkM1U0lNUANuvHDvTY3zw+8+sycUrtD481ShunwvKu/DceFneDyxKD8XU5y+PPrc" author="" url="" tags="" ctime="20170925075257" dir="15063151779ihnd60pxk" file="text.html" crypt="1"/>
+      <record id="1509984804hl0i97e0nd" name="UkM1U0lNUAOxGn5lrFSSJU5FqDXEKzaapY8EOmFcVgxd1KkP2a2zvXQ0HIP5xl5h" author="" url="" tags="" ctime="20171106181324" dir="15099848047m97ioay1m" file="text.html" crypt="1"/>
+     </recordtable>
+    </node>
+   </node>
+   <node crypt="1" icon="" id="15023026130tmwdxiirl" name="UkM1U0lNUAP+rmmDRAQyDcqQat0RPn/0TQWvx+CKwYiYO2oHweyomhYJ5TcexhWx">
+    <recordtable>
+     <record id="150230269819yr706ot9" name="UkM1U0lNUAOnKWXbqaK44NZkBPHNebRpnDv3zKBKOSA+/fltD+iimnrHb8Z0O0Tm9c5V9+ietIg=" author="" url="" tags="UkM1U0lNUAO1PFAJNRvcK0PPhAS6INKsaJ00ecymO4Q9vZsF46088vvwP0nhfxQ0" ctime="20170809231818" dir="15023026987tdduv2bvc" file="text.html" crypt="1"/>
+     <record id="15023027539ofk52neqd" name="UkM1U0lNUAP90Mxt/1bYrpXNo/74FVtjpfb0QH6rXjtLCYGttLt6k+CKcRunn787VwZ9tqfnGCQ=" author="" url="" tags="UkM1U0lNUAMdXQsjH1F6MZSSqJBhRXakfTQF2q+RraH4S/94chcV/zZAhYut4+W73QtENydLg0M=" ctime="20170809231913" dir="1502302753w6i317ltez" file="text.html" crypt="1"/>
+     <record id="15023028517s2tow34ze" name="UkM1U0lNUAMlWg1zc8n1WvZ95xmYs590SkDj4g9HV+ZG2eZN8VwUUz+phhPTmOWDhafrk2fZ3zA=" author="" url="" tags="UkM1U0lNUANJB59QAwdUUrFev8AECSwk/MJOxW7LQVf98LetvFw8S6R+JktVOoNY8LduqFTRSW5TmWfKBrqIQA==" ctime="20170809232051" dir="15023028513cfeiguopc" file="text.html" crypt="1"/>
+     <record id="1502370390g9rdt4897b" name="UkM1U0lNUAN8Noq1tGS7KlnRLwekTHNau4j2Y/PCkp12E8G3TnptXUQaQT4SmPgnkS3eb/0XkXQ=" author="" url="" tags="" ctime="20170810180630" dir="15023703901k8myecap5" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1505031478n781j7krqv" name="Android">
+   <node crypt="1" icon="" id="1505031478n781j7krqv" name="UkM1U0lNUANC7sNkDaCu3f0jYhysexe5kCJhJqWYLF1qgTc0W7Cm29mHMKLDakBH">
     <recordtable>
-     <record id="1505031965n76e32agx8" name="Engineer menu" author="" url="" tags="engineer, advanced, volume" ctime="20170910112605" dir="15050319654pbz9xgbsh" file="text.html"/>
-     <record id="1505032047qbfhip6qp3" name="Enable developer options" author="" url="" tags="android, developer" ctime="20170910112727" dir="1505032047dkdsv2x0ku" file="text.html"/>
-     <record id="1505115093nptcgpnwkb" name="Engineer codes" author="" url="" tags="codes, android" ctime="20170911103133" dir="1505115093mb5qicahhp" file="text.html"/>
+     <record id="1505031965n76e32agx8" name="UkM1U0lNUAM8UUINQpS6Je21oZFb3b9++BTzk8IAPb+FGIyPXTuQlgxzM1S4WMG7pnncM8DjQLM=" author="" url="" tags="UkM1U0lNUANYloG+PJa5rt2ijLSq+yqJNIsbqwf1xcnnoVPG7mP8gMjgrQ1eMpzDENNsh3ttPBXsc/qclATNURbEBaQ7VEis" ctime="20170910112605" dir="15050319654pbz9xgbsh" file="text.html" crypt="1"/>
+     <record id="1505032047qbfhip6qp3" name="UkM1U0lNUANJgPhjHrChCKY70mAZum8G03nE6usH34BQ+ZLej+IQ0cttH1B9MqBYn0aGpCEoEHFQbdWARUfhNw==" author="" url="" tags="UkM1U0lNUAOwi5u0+yWXnx2SmuhIY1OR90hk0NE7ro38UqOe3JFx4tuxIZE09t8/z/71bIo2v9lGieaBu8QJHA==" ctime="20170910112727" dir="1505032047dkdsv2x0ku" file="text.html" crypt="1"/>
+     <record id="1505115093nptcgpnwkb" name="UkM1U0lNUAMK7c/8pgIR8POHu8NFkPhGgWv+PaJEfdgyH3gwx0Zo6Pp6CIFtcUQPjwwchkFdjX4=" author="" url="" tags="UkM1U0lNUAMWr3Nt4czhEgJ+xxi4mrmOVcNxZRAEIA9n1doyg1MmLhq/J08k9Hfk+zQXblQv3FI=" ctime="20170911103133" dir="1505115093mb5qicahhp" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1505393312h03f0awkdd" name="Mytetra">
+   <node crypt="1" icon="" id="1505393312h03f0awkdd" name="UkM1U0lNUAPruWGh696/ZWQWflripZkLlD3hXz3/uLYKT5A4MbSp6sbdBPWUe1yy">
     <recordtable>
-     <record id="1505393469qdmi2ouoqm" name="WebClient" author="" url="https://webhamster.ru/webmytetra" tags="web client" ctime="20170914155109" dir="1505393469ttbuuvylr4" file="text.html"/>
-     <record id="15053980790py1qk7n84" name="Quick notes" author="" url="" tags="notes, quick" ctime="20170914170759" dir="1505398079y1c9vpvbe7" file="text.html"/>
-     <record id="1505503515ro5m0c2wwg" name="Ubuntu configuration" author="" url="" tags="ubuntu, mytetra, configuration" ctime="20170915222515" dir="1505503515v98bxn8p0x" file="text.html"/>
+     <record id="1505393469qdmi2ouoqm" name="UkM1U0lNUAND7xFlsaoV/e3sU+ZBGyyiQhCFW+9sA9t/HJw6PTOw4OH0zXztghyBwPlsmlNsCOQ=" author="" url="UkM1U0lNUANre3MCJMGMMdNvFhKzP5rXnsu82XZOdMw0QBAdcZyvGt6R9Zr78UhBUhbaj93vLomnkl1D+PBzbTZyrFttXwW5" tags="UkM1U0lNUAMyNJ0K+vVUNROPEGkCxf1jLCAD3d1EKJ4hwTvrIuFuzuBCyqgx9ECiaACI9V5Qbjk=" ctime="20170914155109" dir="1505393469ttbuuvylr4" file="text.html" crypt="1"/>
+     <record id="15053980790py1qk7n84" name="UkM1U0lNUAMRAr2U6ZAarxDwYmORdreHsAneTwQan3RFjQ0lJY+xa7BDfZtLL85r7HJ2IlXFI7A=" author="" url="" tags="UkM1U0lNUAO6CB3QD78cq2f2pQzPQ2M9Wg43L9QB31ROXVZ454sDnkZwwFxlaLW8PTqAqR4SMTY=" ctime="20170914170759" dir="1505398079y1c9vpvbe7" file="text.html" crypt="1"/>
+     <record id="1505503515ro5m0c2wwg" name="UkM1U0lNUAPYVIjoBGu3PumG/9Ioyrz0bLchMkrv/6ZRxZGUqlhseci7Z3NpthdXPzQYqqZH0NUi/Z5dRYK5KA==" author="" url="" tags="UkM1U0lNUAOuklSz0yqxZRzVYMyX0H7tOhYKJBQ5AO1nJjMV2Uekikm+IiervkFrdavsYQx91sq3n0B9/VrP8xEScUoqOyn7" ctime="20170915222515" dir="1505503515v98bxn8p0x" file="text.html" crypt="1"/>
     </recordtable>
    </node>
    <node crypt="1" icon="" id="1505633287vs9fwvtc2w" name="UkM1U0lNUAPB/Hcug0Q2dZOD/nPwkByNs86oN4e8a9exKi013BpmjpbpIDoHNCE1V9tswXJG828=">
@@ -227,19 +243,24 @@
      <record id="1506317718bikrykm8m6" name="UkM1U0lNUAPUPUIip9aAj4pOCw0/3KY/dVY2qA3dBS+uwvPzACV5C4IxIzpzuAfCsh5406JctVMn+SSka9WG2nmlAEggM/Lo" author="" url="" tags="" ctime="20170925083518" dir="1506317718xwys62icjc" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1508652472idut2mi37h" name="Health">
+   <node crypt="1" icon="" id="1508652472idut2mi37h" name="UkM1U0lNUAPlr1DggpqLed54fnhC9O2v+e0WCUKUEnbIWFVATaNYDUsvOr41CyED">
     <recordtable>
-     <record id="1508652508eh4afmwuzw" name="Eye relax" author="" url="" tags="Eye relax, глаза" ctime="20171022090828" dir="1508652508geko84fxs5" file="text.html"/>
+     <record id="1508652508eh4afmwuzw" name="UkM1U0lNUAMhY4HpHC4iO3XvbWFPpSpZZhIbkupXXyGTyA7CCbpsZJFpYCaYhJbRmTw4z4quc8M=" author="" url="" tags="UkM1U0lNUAO6InEgsNPmbWqjH/VloH/RmUobDqE4RblQ3sUKj/JsVe3eJGR4QtJ0tmUFtf1aEC3LyqtPEutbCA==" ctime="20171022090828" dir="1508652508geko84fxs5" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1512030278l97i4ez4ni" name="Travel">
+   <node crypt="1" icon="" id="1512030278l97i4ez4ni" name="UkM1U0lNUAMixNOyHy+oMn7TXNIKyq9m/zhwAUIMvtOOI1sZaoxaobtw6TwvSTxX">
     <recordtable>
-     <record id="15120302924uh0oixtp1" name="List" author="" url="" tags="travel, list" ctime="20171130102452" dir="15120302920y8gpg79o5" file="text.html"/>
+     <record id="15120302924uh0oixtp1" name="UkM1U0lNUAORnQz7r3wGhiUNtD/mFTBjdZnwB7B5kIea/IoTWjTw2bOGf68Dzxa4" author="" url="" tags="UkM1U0lNUAObCPWAHPzyOWGnjiYEeIc8n7eyLmyatcWmrFFl9bht1rFNLFmXRKeWRDjHV+1LWec=" ctime="20171130102452" dir="15120302920y8gpg79o5" file="text.html" crypt="1"/>
     </recordtable>
    </node>
-   <node crypt="" id="1513743777w6xh93rqdi" name="Private">
+   <node crypt="1" icon="" id="1513743777w6xh93rqdi" name="UkM1U0lNUANu/iWaMXixUL9PSh5bAgflH88Hz5E6E+5NlDncqix5ktkjgaZ/3ZlV">
     <recordtable>
-     <record id="1513743802o3rjv9pse4" name="bitconnect" author="" url="" tags="" ctime="20171220062322" dir="1513743802m6yvbicb92" file="text.html"/>
+     <record id="1513743802o3rjv9pse4" name="UkM1U0lNUAMnlTlvnBo890fAKcD4+8+IM720EPuxg/uuZHpPCo+AoC5ESdSXWq6IWxp5dPTOj4U=" author="" url="" tags="" ctime="20171220062322" dir="1513743802m6yvbicb92" file="text.html" crypt="1"/>
+    </recordtable>
+   </node>
+   <node crypt="1" icon="" id="1514349685ullm6nz092" name="UkM1U0lNUAPZ/sLK6lF44d2gbnHmdbNV6AJxXCBSvIuEPqxlP3Ginx17UnqSCAlB">
+    <recordtable>
+     <record id="1514350523ieder2gxkk" name="UkM1U0lNUANojfL3PKM7uXH+r/2h//QPynF+3xlkJIuW+ga8f7u+Qg4Hzmez9wPa" author="" url="UkM1U0lNUAPZd8ywCuHc3BRk/dphaQZwWVNYSvisBYi9RNZ0raJ0TyrCoIWHYtokkTqiJqwceOz1OxN1mQPFRA==" tags="" ctime="20171227065523" dir="1514350523v8zuyqo3lv" file="text.html" crypt="1"/>
     </recordtable>
    </node>
   </node>
