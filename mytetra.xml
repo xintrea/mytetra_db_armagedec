@@ -6,7 +6,7 @@
   <node crypt="" id="14813066435d0miklsgh" name="root">
    <node crypt="" id="1481386952j9tqrpfnx9" name="git">
     <recordtable>
-     <record id="1505411955khlk2ly2v6" name="First TIme Git Setup" author="" url="" tags="git setup" ctime="20170914205915" dir="1505411955hshasx7umu" file="text.html"/>
+     <record id="1505411955khlk2ly2v6" name="Первичная настройка Git (First Time Git Setup)" author="" url="" tags="git setup" ctime="20170914205915" dir="1505411955hshasx7umu" file="text.html"/>
      <record id="1481387047n8fxdemi4t" name="Удаление remote branch" author="" url="" tags="remote, branch, remove" ctime="20161210182407" dir="1481387047ud7n3ety1q" file="text.html"/>
      <record id="1481459708iz42yamapy" name="Шпаргалка по командам" author="" url="" tags="git, commands, repo" ctime="20161211143508" dir="14814597081vhsmhi9n8" file="text.html"/>
      <record id="1481463336o4ubh0ztgx" name="Формат pretty" author="" url="" tags="pretty, git" ctime="20161211153536" dir="1481463336ns4cwlt0cw" file="text.html"/>
